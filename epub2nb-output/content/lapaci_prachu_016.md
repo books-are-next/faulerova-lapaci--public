@@ -3,8 +3,6 @@ title: "Osm a\_půl"
 contentType: prose
 ---
 
-  
-
 Tik-tak jedny. Ticho druhé. Ticho třetí.
 
 Ten večer, ten nedělní večer, kdy Dana byla u Běty, ten večer, kdy jsem už měla dávno spát, a místo toho jsem s matčinými kadeřnickými nůžkami rozstříhala závěsy v kuchyni na proužky a při tom ve walkmanu poslouchala písničky kapel, co si sestra nahrávala z rádia, písničky, co vyprávěly o chlapech, co do práce nevstávaj a svou ženu nemilujou, co vyprávěly o tom, že chtěj zas v tobě spát, nebo o tom, že jsou o půl třetí na náměstí ve Valašském Meziříčí, to odpoledne jsem zaslechla, jak klaply vchodové dveře, a věděla jsem, že se vrátil domů otec.
