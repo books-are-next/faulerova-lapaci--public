@@ -3,18 +3,14 @@ title: ''
 contentType: prose
 ---
 
->   
+_Včera jsem umřel  
+dneska už zase  
+sedím v práci_
 
->   
+_Vždycky jsem tušil  
+že to tak bude_
 
-> Včera jsem umřel  
-> dneska už zase  
-> sedím v práci
+_že umřu  
+a hovno se stane_
 
-> Vždycky jsem tušil  
-> že to tak bude
-
-> že umřu  
-> a hovno se stane
-
-Milan Ohnisko, _Milancolia_
+> Milan Ohnisko, _Milancolia_

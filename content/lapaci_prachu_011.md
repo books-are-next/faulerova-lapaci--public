@@ -3,8 +3,6 @@ title: Čtyři
 contentType: prose
 ---
 
-  
-
 „Novotný, prosím?“
 
 Ucítila bušit srdce až v krku, slyším už lehce pod parou vypravěče a vyprsknu nad tím smíchy.

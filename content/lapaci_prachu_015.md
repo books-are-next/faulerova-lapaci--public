@@ -3,8 +3,6 @@ title: Osm
 contentType: prose
 ---
 
-  
-
 Zdálo se mi, jak to Viktor Kavi dělá svojí ženě. Dělal jí to tak, jak jí to jistě ve skutečnosti nikdy nedělal. Dokázala jsem si totiž představit, že ve skutečnosti byl jejich sex takový ten velice čistý, romantický, on byl nahoře, dlaně u jejího obličeje, podpírá se na loktech a jemně, ale důkladně přiráží. Ona je samozřejmě celá k zblití okouzlující, tiše vzdychá a pomalu mrká. Dívají se vzájemně do očí a jsou celí synchronizovaní, žádný pot, žádné směšné zvuky, které by ten akt provázely, dokonce ani postel pod nimi nevrže. Mně se ale zdálo, že jí to dělal tvrdě a špinavě, bral si ji zezadu a ona sténala, kousala do polštáře, nehtama rvala prostěradlo, pak ji dodělal pusou, byla rozechvělá, třásla se po celém těle a ječela jako šílená, krátké světlé vlasy zcuchané přes obličej, jeho hlava zabořená mezi jejími stehny, její nehty mu drásají kůži, jeho jazyk kmitá ze strany na stranu, její chodidla propnutá jak nohy baleríny, jeho jazyk přejíždí táhlými pohyby zezdola nahoru. Jako když pečlivě líže zmrzlinu. Než se rozteče.
 
 Zapomněla jsem, kdy se mi to přestalo zdát. Kdy jsem přestala spát. Kdy jsem se probudila.

@@ -3,8 +3,6 @@ title: Tři
 contentType: prose
 ---
 
-  
-
 Je mi dobře jako už dlouhou dobu ne. Jasně, ráno se vzbudím s poněkud špatnou náladou, ale kdo se budí sluníčkově kromě mojí šéfový? A komu by se navíc líbilo probuzení záchvatem kašle? Prostě mě škrábe v krku, ucpaný dutiny, občas mi stoupne teplota, jsem holt nachcípaná. No takže se vzbudím, nasnídám, před cestou do koupelny se dokonce i na poslední chvíli rozhodnu mírně, no jo, fakt mírně, ale aspoň něco, že jo, rozhýbat, trochu protáhnout končetiny, omylem při tom shodím láhev ze stolu, ta se rozbije, pak omylem šlápnu na střep, krev roznesu po koberci, když se daří, tak se daří. Před zrcadlem si pak opatrně natřu odřený nos mastičkou, kápnu si do očí plných rýmy nějaké zázračné kapky a vyrážím do práce. Těch pár stanic se projdu pěšky, to je teď moje nová rutina, zjistila jsem, že je to lepší než sedět v zaprděné tramvaji, kde všichni ještě páchnou spánkem, navíc proč pro sebe něco neudělat, proč nenasát trochu čerstvého vzduchu, než si svou půlhodinovou zdravou životosprávu pokazím dvojičkou cigaret před vrátnicí. Dana je tam vždycky na moment v mojí hlavě se mnou, její hlavička švihá napravo nalevo, napravo nalevo – otevírám okno a svou sestru z něj shazuju ven, pak zavřu dveře a v klidu dokouřím.
 
 A taky dokud ještě nemrzne, přeci jenom do zimy už není tak daleko, i když je pořád podzim, takový ten podzim, kdy se na město snáší déšť a kdy už listí pomalu ztrácí svoji zlatou barvu, jak by řekl můj vypravěč, no ale pořád je to podzim, že jo, říkám já, podzim znamená, že není zima.

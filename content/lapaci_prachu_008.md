@@ -3,8 +3,6 @@ title: Jedna
 contentType: prose
 ---
 
-  
-
 Rušnou ulicí prochází mladá žena, ačkoli ve skutečnosti je starší, než si představujete. Je jeden z těch podzimních dnů, kdy se o slovo hlásí dozvuky léta. Ano, lze říci babí léto, ale byl to jeden z těch podzimních dnů, kdy se o slovo hlásí dozvuky léta. Slunce už nehřálo dost natolik, abyste vysedávali na lavičce v parku, ale ještě to stačilo na procházku jen v tenkém svetru. A v jednom z takových svetrů šla právě mladá žena, vážně je starší, než si představujete, po rušné ulici. Vlastně jde v kabátě… ne, ve svetru. Hm. Mladá žena šla ulicí jen v lehkém smetanovém kabátě. Bylo přívětivé odpoledne, tak přívětivé, jak si jen dokážete přívětivé odpoledne představit v jednom z těch podzimních dnů, kdy se o slovo hlásí dozvuky léta.
 
 Byla to štíhlá, vysoká žena, třebaže byla spíš hubená a líně vytáhlá, a její plné rty, i když si představujete zcela mylně smyslné plné rty namísto kachní protáhlé pusy, která i přes lehký úsměv budí dojem dětsky nazlobeného nafouknutí – což nyní pro potřeby vyprávění opomeneme a budeme myslet na to, že – její plné rty směřovaly koutky lehce vzhůru, do úsměvu, co byl stejně svěží jako jeden z těch podzimních dnů, kdy se o slovo blablabla. Jen si to představte, tu vlídnou atmosféru, která se snáší na město, když vítr, ani chladný, ani teplý, ani prudký, ani slabý, cuchá její vlasy, roztančí plátěný kabát kolem jejích boků, ani oblých, ani ladných.

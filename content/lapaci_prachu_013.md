@@ -3,8 +3,6 @@ title: Šest
 contentType: prose
 ---
 
-  
-
 „Dobrý den,“ pozdravil mě, jako kdyby mě čekal. Jako kdyby bylo naprosto v pořádku, že postávám před jeho domem, zády k hnědé brance s poštovní schránkou.
 
 „Viděla jsem vás tu jednou, jak venčíte kočku,“ řekla jsem.
