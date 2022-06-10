@@ -3,6 +3,8 @@ title: Osm
 contentType: prose
 ---
 
+<section>
+
 Zdálo se mi, jak to Viktor Kavi dělá svojí ženě. Dělal jí to tak, jak jí to jistě ve skutečnosti nikdy nedělal. Dokázala jsem si totiž představit, že ve skutečnosti byl jejich sex takový ten velice čistý, romantický, on byl nahoře, dlaně u jejího obličeje, podpírá se na loktech a jemně, ale důkladně přiráží. Ona je samozřejmě celá k zblití okouzlující, tiše vzdychá a pomalu mrká. Dívají se vzájemně do očí a jsou celí synchronizovaní, žádný pot, žádné směšné zvuky, které by ten akt provázely, dokonce ani postel pod nimi nevrže. Mně se ale zdálo, že jí to dělal tvrdě a špinavě, bral si ji zezadu a ona sténala, kousala do polštáře, nehtama rvala prostěradlo, pak ji dodělal pusou, byla rozechvělá, třásla se po celém těle a ječela jako šílená, krátké světlé vlasy zcuchané přes obličej, jeho hlava zabořená mezi jejími stehny, její nehty mu drásají kůži, jeho jazyk kmitá ze strany na stranu, její chodidla propnutá jak nohy baleríny, jeho jazyk přejíždí táhlými pohyby zezdola nahoru. Jako když pečlivě líže zmrzlinu. Než se rozteče.
 
 Zapomněla jsem, kdy se mi to přestalo zdát. Kdy jsem přestala spát. Kdy jsem se probudila.
@@ -16,6 +18,10 @@ Nebyla tu jediná věc, co by sem nepatřila, a přesto to nepůsobilo steriln�
 Svlékla jsem se. Jste to, co nosíte. A když jste nazí, nejste nic. Nic. Nic. Oblékla jsem si doktorův svetr, zapnula zip. A lehla si přesně tam, kam patřím.
 
 Pak jsem skutečně usnula.
+
+</section>
+
+<section>
 
 Předvánoční čas, ten mezičas dělící hromady listí kolem chodníků od jinovatky na střechách, ten mezičas, co vás naplňuje teplem jako svařené víno, co voní po hřebíčku, ten magický mezičas, co jímá lid v blahý klid. A v jednom z těchhle kouzelných podvečerů, kdy lidem rostou jejich srdce a tenčí se jim konta na účtech, v jednom z těch podvečerů, kdy se lidé pouštějí ve dveřích, usmívají se na sebe a přejí si šťastný a veselý, kdy volají svým příbuzným, které neslyšeli, no ano, on to snad už bude celý rok, se Anna, naše trapná hrdinka, neergonomická karikatura s předčasně zestárlou kůží, s předčasně chátrajícími kostmi, zdeformovaná jako křivě narostlý strom, v tento magický čas, jehož není snad ani hodna, se Anna vrací domů, k sobě, jak to ona nazývá, ačkoli k sobě se zásadně nikdy nevrací, vchází do obýváku ke svým jediným přátelům, co na ni čekají v policích, jeden vedle druhého, čekají na ni, protože nemají na výběr, vchází do obýváku, kde je slyšet pouze nepravidelné vzdychání dvojích hodin, Anna se vrací domů v tom mezičase, co vás naplňuje teplem jako svařené víno, co voní po hřebíčku, v tom mezičase, co jímá lid v blahý klid. A ačkoli je ve svém bytě, neunikne jí, přestože, mimo jiných nevalných vlastností, bystrostí právě neoplývá, neunikne jí, že to tu vypadá jinak, že to tu vypadá jako v bytě, který si pamatuje z dětství.
 
@@ -34,6 +40,10 @@ Otec se rozesměje hýkavým smíchem. Směje se tak, jak ho Anna nikdy neslyše
 „Vážně, Anno? Vážně?“ pronese otec hlasem, co mu nepatří, s očima, co mu nepatří.
 
 Ach. A tak si Anna v tomto předvánočním čase, v tomto mezičase dělícím hromady listí kolem chodníků od jinovatky na střechách, v tom mezičase, co vás naplňuje teplem jako svařené víno, co voní po hřebíčku, v tom mezičase, co jímá lid v blahý klid, v tom kouzelném období, kdy lidem rostou jejich srdce, v tomto podvečeru Anna ulehá na gauč a skládá si ruce na prsou, a říká si, samozřejmě, jak jinak by to mohlo být, jsem mrtvá, jsem už dávno mrtvá. A pak otec uklekne k jejímu tělu, uklekne k modlitbě a říká amen, právě když Anna šeptá „já chci do pekla“.
+
+</section>
+
+<section>
 
 Seděla jsem u sestry v kuchyni, okno otevřené, dveře zavřené, konvice bublá, sestřina záda, cukroví na stole.
 
@@ -172,6 +182,10 @@ Mlčíme. Každá sleduje své. Sestra hladinu čaje, já tři adventní kalend�
 „Počkej… ehm… Jako je prázdná duha, tak jsem prázdný i já. Jako je zrádná voda, tak zradím i já…“
 
 V krátké odmlce, co následuje, vzhlédnu od adventního kalendáře, sestra od hladiny čaje, a nakonec se k ní sotva slyšitelně přidám, když zpívá: „Zkouším se prokopat ven.“
+
+</section>
+
+<section>
 
 Viktor Kavi zrovna vyprovázel klienty ze své kanceláře, když mě zahlédl sedět v čekárně před křivě pověšeným obrazem s broukem. Podíval se na mě, pak na brouka, pak zase na mě. Semkl rty, promnul si rukou tvář a pak doširoka otevřel a postavil se stranou, čekal, až vejdu, a bezpochyby zažíval nelidská muka, když odolal nutkání jít narovnat obraz, a místo toho za sebou zavřel dveře.
 
@@ -461,6 +475,10 @@ Tlak stoupá, přestávám vidět, dlaně se mi lepí k tvářím, nohy se odle
 
 „Uklidni se,“ říká a myslím, že si se mnou opatrně kleká na zem. „Teče ti krev, nehýbej se,“ slyším a pak ucítím látkový kapesník, co mě pohladí po zátylku.
 
+</section>
+
+<section>
+
 Seděla jsem v rohu předsíně, sledovala chlup ze srsti jednoho postiženého psa, kterého jsem nedávno unesla, a střídavě upadala do snu a střídavě upadala do reality, a vždy když jsem užuž upadla, probrala jsem se, těžko říct odkud kam, jestli odtud tam, nebo odtamtud sem. Myslela jsem na to, jak jsem před časem potkala Jakuba před obchodním centrem, jak jsem právě stála u stánku, kde připravovali kafe s sebou, a jak jsem ho zahlédla, když zrovna telefonoval. Myslela jsem na to, že jsem ho tenkrát nepotkala náhodou, že jsem ho sledovala už nějakou dobu předtím. Věděla jsem, kam se přestěhoval, věděla jsem, jak vypadá jeho nová přítelkyně, věděla jsem, že ví, že to utajené číslo, co mu volá, jsem já. Myslela jsem na to, jak se na mě Jakub podíval, když mě zahlédl, jak se usmál tím způsobem, kterým se jen on usmívá, jak si pak schoval telefon do kapsy a jak potom zamířil ke mně, objal mě, řekl pár milých slov, asi že mě rád vidí, asi že doufá, že se mám dobře, asi že bychom mohli někdy někam zajít. Naklonil se pak ke mně, dotkl se mého ramene a políbil mě na líci, přesně mezi spánek a ústa. A odešel. V dálce se ještě zastavil, otočil a zamával, věnoval mi jeden z těch pohledů, co říkají, páni, už je to tak dlouho, nebo tak něco. A já tam zůstala stát a nepohnula se, snad jsem vrostla do země, a věděla jsem, že jsem nic, že je to potvrzený, že jsem definitivně víc než nic, že je to oficiální, že jsem pozbyla významu zcela a kompletně, a čas se nezastavil a nikdo kolem se nezastavil a den šel dál a Jakub šel dál a já věděla, že je to nejhorší chvíle mého života, bezpochyby a bez debat. Snad jen kromě těch ostatních.
 
 Pu-chššš.
@@ -468,6 +486,10 @@ Pu-chššš.
 Odpustil mi. Kéž by mě radši zadusil. Kéž by mě radši zadusil peřinou a já mu za to stačila poděkovat. Kéž by mě radši zadusil. Ale to on ne. On mi odpustil. A to jsem mu nedokázala odpustit.
 
 Střih a zatmívačka.
+
+</section>
+
+<section>
 
 „Doktore, chci, abyste mi řekl, co jsem provedla.“
 
@@ -498,3 +520,5 @@ A skulinou pootevřených dveří do obýváku vidím, jak mě sledují moji p�
 Doktor neříká nic, jen přikývne, jen nepatrně pokyne hlavou.
 
 „Co jsem to provedla?!“ chytám se za pusu a blížím se k zemi. A ve mně zatím sněží, sněží jako ve skleněné kouli, potom co s ní zatřesete. Doktor ke mně přikročí jediným rychlým pohybem, a zase se zdá, že mě chce chytit do náručí. Uhnu. Uhnu, protože vím, že kdyby mě teď objal, rozpadla bych se mu v rukou jako plátek starého chleba.
+
+</section>

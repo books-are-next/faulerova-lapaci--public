@@ -3,6 +3,8 @@ title: Šest
 contentType: prose
 ---
 
+<section>
+
 „Dobrý den,“ pozdravil mě, jako kdyby mě čekal. Jako kdyby bylo naprosto v pořádku, že postávám před jeho domem, zády k hnědé brance s poštovní schránkou.
 
 „Viděla jsem vás tu jednou, jak venčíte kočku,“ řekla jsem.
@@ -167,6 +169,10 @@ Málokdo ví, že šepot je vlastně poruchou hlasu.
 
 Že šeptat se nemá.
 
+</section>
+
+<section>
+
 „Dej zatím vařit vodu, já jen něco dodělám,“ houkla na mě sestra, když mi otevřela dveře a běžela kamsi do obýváku. Šla jsem tedy rovnou do kuchyně a nalila vodu z kohoutku do konvice. Připravila jsem dva hrnky, do sestřina vložila pytlík černého čaje, do svého tři lžičky instantního kafe. Zkoušela jsem si zahrát na Danu, dívala jsem se na alchymii vařící se vody v plastové konvici se spirálou, na kterou se věčně usazuje vodní kámen, ale moje sestra ji pečlivě drhne, vyvařuje s octem, a tak nestíhá nakazit vodu, kterou si každý den zalévá své čaje. Dívám se na světélkující oranžové okýnko, které oznamuje, že konvice běží, opírám se o precizně vyleštěnou linku, vzhlédnu k nablýskaným sklenicím v prosklených skřínkách, shlédnu ke srovnanému hadru na okraji dřezu. Hodím do něj špunt a pustím plným proudem studenou vodu.
 
 Tramtará. Moje sestra. Ta, co vždycky toužila mít všechno hezké, srovnané, čisté, úhledné, v pořádku. Ta, co nosila ze školy jedničky, protože chtěla udělat rodičům radost, ta, co každý den vařila a pekla, protože chtěla manželovi dělat radost, ta, co navštěvovala Miriam ve vězení a teď v její garsonce kdesi na periferii, protože tak je to správné, ta, co mě vždycky nakonec pozvala na kafe, protože tak to mělo být. A jak dopadla, ve vycíděném panelákovém bytě, ta potřebná, co si nemůže dovolit nikoho potřebovat, ta opřená o čistou kuchyňskou linku, co čeká, čeká, čeká, než se jí uvaří voda na čaj, a opřít se nemá o koho včetně vlastní sestry.
@@ -194,6 +200,10 @@ Zvednu se lenivě z křesla a popadnu panáka za ruce.
 „Je to voda, tak to uschne, ne?“ zahučím a společně opřeme figurínu muže s vyřezaným obličejem o stěnu. Váží snad metrák, zatímco ho podpírám v oblasti trupu, sestra mu rovná chodidla tak, aby zůstal stát na rovných ploskách a nepřevážil se.
 
 „Zvoní ti telefon,“ funím pod váhou dřevěného muže, jehož nos se mi boří do ramene. Sestra odběhne za zvoněním do kuchyně a já se narovnám v zádech v rámci možností mojí zkřivené páteře, abych si panáka prohlédla tváří v tvář. Po pár vteřinách jsem se otočila a prošla kamsi k imaginárnímu cílovému místu v pokoji, odkud jsem se po něm znovu ohlédla. Slyšela jsem sestřin hlas z druhého konce bytu, telefonovala, smála se. Vrátila jsem se k panákovi, k tomu univerzálnímu muži, co se vás nemůže dotknout, ale ani se vám nemůže bránit, přišla jsem k němu a vyhrnula mu volný svršek z lýka, abych si pod něj mohla zalézt, abych se mohla přilepit tváří a prsy a břichem na to dřevěné tělo a nechat si spadnout tvrdou látku přes záda, abych se k němu mohla celá schovat, obejmout ho, zavřít oči, zabořit si hlavu na místo, kde by za živých okolností měl jamku pod klíční kostí. Zadřeš si třísku, upozorňuje mě vypravěč. Kéž by, snad, říkám já. Kdesi za mnou jsem zaslechla chůzi bosých nohou na linoleu. Když jsem se vymanila z dřevěného náručí, byla jsem tu stále jen já a panák a z kuchyně už se ozýval jen tikot hodin.
+
+</section>
+
+<section>
 
 Když jsem Ondřeje viděla poprvé, tedy poprvé po letech, protože jsme se od vidění znali ještě ze základní školy, zachránil mě před jedním zoufalcem v klubu. V tom klubu, kde jsme se pak vídali i společně s Mercedes.
 
@@ -255,6 +265,10 @@ Rozesmál se a připálil si cigaretu.
 
 A tohle – to si pamatuju úplně přesně. Pokrčil rameny a vyfouknul kouř nosem a řekl: „Asi ve jménu ženský pospolitosti, Twiggy.“
 
+</section>
+
+<section>
+
 Zírala jsem fascinovaně s lahví u pusy na Horsta Fuchse nebo jiného oplzlého Němce nebo Rakušáka, jak žongluje s noži, pánvemi, mixéry, a poslouchala neuvěřitelné dialogy složené ze spousty údivů a radosti a opravdu a to snad ne a tak to je fantastické, no není to fantastické?
 
 Až tihle lidi umřou, dostanou se do nebe plného zázračných auto­laků, na nichž můžete grilovat přímo na kapotě auta, a olalá, lak jako nový, a famózních hrnců, v nichž se nikdy nic nepřipálí, i když v nich budete smažit podrážky od bot nasucho dva dny v kuse. Podívej se, Anno, no není to fantastické?
@@ -287,6 +301,10 @@ Přepínám.
 
 „Umíš vyprávět pohádky?“ zeptala jsem se. A poslední, co jsem viděla, byl Fritzův zmatený pohled. Myslím, že pak jsem usnula a že Fritz chvíli marně ťukal na obrazovku, pak naštvaně odhodil pánev, německy zaklel a nechal mě samotnou zavrtanou v pouštním písku, do něhož se bořím a bořím a bořím, až po mně nezbude nic, nic, nic.
 
+</section>
+
+<section>
+
 Stačilo trochu víc zapátrat na internetu. Jen o trochu víc. Bylo to úplně snadný. Tak strašně snadný. Trapně snadný. Snadný na tři kliky. Ryc pic bum hotovo. Stránky společnosti, kde pracuje Viktor Kavi. Viktor Kavi, který je jen jeden. Klik. Odkaz na mediátora. Klik. Profesní životopis. Klik.
 
 A netrvalo mi ani tři vteřiny, než mi to došlo, když jsem si přečetla jeho zaměstnání v letech 2005–2008.
@@ -294,6 +312,10 @@ A netrvalo mi ani tři vteřiny, než mi to došlo, když jsem si přečetla je
 Ne, Dana mu nic neřekla, říkala přece, že mu nic neřekla. Je vychcanější, než jsem si myslela. Ona ne. Což ale neznamenalo, že to nevěděl.
 
 Ne, ona ne. Miriam mu to řekla sama.
+
+</section>
+
+<section>
 
 V hlavě se mi žene vír tak silně, že zachytávám jen nesrozumitelné útržky slov, které občas vykřiknou, jako když rádio na moment zachytí signál, co se pak zase ztratí. Když se takhle bez upozornění posune volume samovolně doprava, skoro se leknu, trhnu sebou, trhnu s volantem a silnice se zvlní. Světla na křižovatce se slévají s mlhovými světly a mlhová světla se slévají s blinkry a blinkry se slévají se citylighty a zelená a oranžová a červená a zdá se, že projíždím impresionistickým obrazem zapršenýho města.
 
@@ -493,6 +515,10 @@ Zamračí se na mě. Pokrčím rameny, myslím, že je to ta nejjasnější odpo
 
 Čekala jsem, že se zeptá, proč se se mnou nikdo nepřátelí, proč nikoho nemám, proč mě žádnej nechce, proč mě žádnej nemiluje, proč mě žádnej nemá rád. Ale nezeptal.
 
+</section>
+
+<section>
+
 Už několikrát mi hlavou proběhla nechtěná představa, co moje matka, ta křehká osoba, která měla vrásky vyražené hluboko do tváře už od doby, co si ji pamatuju, ta křehká osoba, které se propadala hodnota tlaku tak nízko, že se často během dne musela zastavit v jakékoli rozdělané činnosti a opřít se, přidržet se, odpočinout si a několikrát se zhluboka nadechnout, ta křehká osoba, která do sebe lupala jeden prášek za druhým, s tím typickým trhnutím hlavou do záklonu, když je polykala, nikdy jsem nevěděla, na co všechny jsou, vím, že některé byly na migrény, kterými cyklicky trpěla, ano, už několikrát mi hlavou proběhla nechtěná představa, co moje matka dělala od rána do večera dvanáct let ve vězeňském mundúru za mřížemi se ženami, které uškrtily svoje mladší sourozence, otrávily plynem své rodiny, znásilňovaly své syny, zastřelily své muže, podpálily budovu, kde pracovaly. Nikdy mě nenapadlo, že tráví čas vysedáváním u psychologa. V představě mé matky v prostředí mně natolik neznámém, protože jsem ho nikdy nenavštívila, v představě života ženy, která je mi už dávno cizí, najednou Viktor Kavi vyrostl jako stéblo trávy, vedle Miriam, předčasně zestárlé s vráskami ještě hlouběji vraženými do kůže, tak hluboko, až jí skoro skrze slabá místa prosvítají kosti, vedle Miriam, které určitě zrovna teď třeští hlava, masíruje si prsty spánky a bojuje se závratěmi v garsonce kdesi na kraji města. Miriam, která mého otce zabila hned nadvakrát, pro jistotu. Přede mnou. Anna stála nad metaforickou záchodovou mísou svého života a sledovala, jak se její splašky vracejí zpět, říká vypravěč, ve skutečnosti klečím u hmotné záchodové mísy, opírám si o ni čelo a čekám, dokud nezačnu dávit.
 
 Nevím, jakou mi byla matkou, nepamatuju si to, pamatuju si zato, jakou byla matkou Daně, pouštím si v hlavě diáky, v nichž spolu vykrajují vánoční cukroví, v nichž ji učí háčkovat, v nichž se společně smějí, pak následuje obzvlášť dlouhý záběr, jak se k sobě choulí pod jednou dekou u televize. Do krku mi vypluje první salva žaludečních šťáv. A jak se jedna zastává druhé před otcem, jak mu jedna pro druhou nastavuje tvář. To, jak dopadají natrávené útroby mého žaludku do záchodu, pouze slyším – skrz křečovitě zavřené oči nepronikne ani kousek světla. Nebyla na mě zlá, snad nikdy na mě nekřičela, to ne, moc se mnou nemluvila… sice víc než otec, ale ne moc. Bylo to pochopitelné, jasné jako facka, zprava i zleva, jak jinak by to mohlo být, tak a ne jinak, že k Daně měla blíž, protože Dana ji také víc potřebovala, a někdo mojí sestře musel vynahradit ty rány, co utržila. Otřu si pusu do toaletního papíru, zvednu se na roztřesených nohou, abych mohla otočit s ventilkem a čekat, než nateče voda do nádrže.
@@ -500,3 +526,5 @@ Nevím, jakou mi byla matkou, nepamatuju si to, pamatuju si zato, jakou byla mat
 Já? Já jsem si mohla hrát s krabičkou sirek ve stohu slámy, a všem to bylo u prdele.
 
 Pu-chššš.
+
+</section>

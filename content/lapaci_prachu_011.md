@@ -3,6 +3,8 @@ title: Čtyři
 contentType: prose
 ---
 
+<section>
+
 „Novotný, prosím?“
 
 Ucítila bušit srdce až v krku, slyším už lehce pod parou vypravěče a vyprsknu nad tím smíchy.
@@ -30,6 +32,10 @@ Jako čmouha na zamlženým skle.
 Jako když sfouknete sirku.
 
 S rukou v kalhotkách a druhou za krkem jsem se ukolébala k spá­nku.
+
+</section>
+
+<section>
 
 Chvíli jsem vydržela předstírat, že Danu poslouchám, dnes jsme byly u ní, protože Marek marodil. Sledovala jsem její záda, dokonale narovnanou páteř, i když se skláněla nad kuchyňskou linkou, sypala sušenky z pytlíku a skládala je na talíř do vějíře. A k čemu? Ty sušenky položí před nás, sníme je, nebo spíš bude pozorovat, jak já do sebe házím jednu za druhou, zatímco ona bude jednu uždibovat jako veverka aspoň minutu.
 
@@ -121,6 +127,10 @@ Nevěřila jsem jí, ale nehodlala jsem z ní nic páčit. Zapálila jsem si ci
 
 Zakývala na mě hlavou, jako že to určitě, a odskočila si na záchod. Počkala jsem, než za ní v předsíni cvakly dveře do koupelny, a když přišla zpět do kuchyně, její telefon ležel naprosto nehnutě a nenápadně na stole, já nic, já muzikant, ačkoli obrazovka zhasla téměř na poslední chvíli.
 
+</section>
+
+<section>
+
 Probrala jsem se s nohama na zemi, s trupem na gauči a hlavou zabořenou mezi sedákem a molitanovým opěradlem. Zase. Soukala jsem se ven se značnými obtížemi, nejen kvůli krkolomné pozici, ale byla jsem dokonale dezorientovaná. Nakonec jsem skončila zadkem na podlaze. Podívala jsem se na hodiny, hodiny a hodiny a zjistila, že tikají jedny, tikají druhé, ale u třetích jsem zaváhala, respektive nedalo se říct, že nejdou, tikaly až ke mně, ale minutová ručička se nehýbala. Dolezla jsem k nim po čtyřech, sundala je z police, přiložila si je k uchu a zaposlouchala se do jejich šepotu, který mě skoro znovu ukolébal. Z mikrospánku mě probrala rána, jako by mě vypravěč praštil do čela, nebo spíš jen tak decentně pleskl patou dlaně, zaspalas, Anno, už to není vtipný, tak sebou pohni. Zvedla jsem se ze země, záchod, ventilek, spláchnout, sprcha, zuby, zrcadlo, jednu zprava, jednu zleva, rolák, kalhoty, obout, zout a obout správnou botu na správnou nohu, nejrychlejší tempo, kterého je moje líné tělo schopné. Za pět minut jsem měla být v kotci. Míjela jsem zastávku, právě když přijížděla tramvaj. Dvě vteřiny jsem váhala a nakonec naskočila.
 
 Stála jsem u dveří, snažila se zhluboka dýchat do límce od roláku, filtrovala jsem pach lidí, kteří si z očí ještě vytírali ospalky, bylo mi špatně od žaludku a tmělo se mi před očima, příliš mnoho lidí v přílišné blízkosti, slyšela jsem všechno kolem jako z plechovky, jako z tunelu, jako zdálky, namísto toho jsem zřetelně slyšela, jak mi bije srdce, jak mi pulzuje krev v těle, všechno jsem to slyšela, zevnitř a nahlas, jako bych naslouchala zas tomu tikotu hodin, co nejdou. Polkla jsem naprázdno a snažila se ignorovat slabost v kolenou. Soustředila jsem se jen na to, abych tik-tak dýchala pěkně tik-tak pravidelně. Snažila jsem se na nic nemyslet, ale tududumtum, nevyšlo to, prohrála jsem otázku za tisíc a vzpomněla si na Jakuba.
@@ -134,6 +144,10 @@ Předkláněla jsem se tak moc, že jsem se nosem skoro dotýkala madla na sedad
 Sáhl mi na rameno. Otevřela jsem oči. Mlha. Lambis truncata se mě dotýkal. Mlha se rozplynula, hodiny se zastavily, ukončete výstup a nástup, dveře se zavírají.
 
 Stála jsem na chodníku.
+
+</section>
+
+<section>
 
 Potom, co jsem zrána načurala na dva různé těhotenské testy, třeba čekám frackovo dítě, že, a oba byly tentokrát negativní, jsem zašla k obvodnímu doktorovi. Ukázalo se, že to byl špatný nápad. Tak nějak jsem tušila, že budu odcházet naštvaná. Jenže já byla prostě přesvědčená, že za mým stavem musí být něco víc než nějaký guláš v hlavě. Že se za mým stavem schovává výsledek krevních testů, co já vím, že v tom musí být někde zakopaný pes, nějaký racionální, nějaký faktický zakopaný pes, kterého mi ukáže na rentgenu, na ultrazvuku, změří ho v tlaku, kterého vykope a dá mi na něj předpis. Jenže můj doktor se na mě díval takovým tím pohledem… no, přesně tím pohledem, a zeptal se mě, jestli radši nechci navštívit někoho přes hlavu, a ne, nemyslel neurologa, kterého jsem se dožadovala já, měl na mysli _toho_ doktora přes hlavu. Sešla jsem tedy na poliklinice schody o patro níž a vyseděla si příjem k neurologovi i bez písemného doporučení, protože mám nádor na mozku, a nikoho to nezajímá. Když mi mladá fiflena v bílém plášti s tím… jo, přesně s _tím_ pohledem dala jasně najevo, že mi žádného psa nevykope, protože údajně nikde žádný není, pokrčila jsem rameny a zeptala se jí, jestli mi teda může napsat nějaká antidepresiva. Dostala jsem přednášku, že ta můžu dostat jen na základě diagnostiky cvokaře a že bych se měla snažit svoje problémy odbourat jinak než pomocí medikamentů, protože se na nich snadno získává závislost a blableblibloblu. Dívala jsem se na ni a nechala jí obličej pokrývat bradavicemi a puchýři, co bobtnaly a pukaly, zaplňovala jí pusu gigantickým oslím penisem a bez pozdravu odešla. Na ulici jsem si koupila trdelník, procházela jsem městem, dala si rande naslepo se slepcem, co o mé přítomnosti na lavičce nevěděl, a přemýšlela, co mám dělat, co mi zbývá, jak jsem se sem vůbec dostala. Jak se to stalo? Přišlo to zčistajasna? Nebo se to ke mně už nějakou dobu kradlo? Slyšela jsem to snad pomalu přicházet, slyšela jsem snad, jak pod tím vržou parkety, jak praská to staré dřevo, jen mě nenapadlo se ohlédnout, protože parkety prostě vržou a protože staré dřevo prostě praská?
 
@@ -157,6 +171,10 @@ Vidíš, co děláš? šlehla jsem pár plamenů ke kříži. Neměla jsem na n�
 
 Já chci do pekla.
 
+</section>
+
+<section>
+
 Procházela jsem ulicí, která lemovala park, už se setmělo a dělalo se ticho. Pusto, prázdno, na konci ulice právě zmizel chlap v dlouhém plášti s jezevčíkem, co za ním cupital na vodítku. O dva domy dál cvakly vchodové dveře, před očima se mi mihla hnědá bota, která zmizela uvnitř spolu s posledním zvukem téhle ulice. Jako by se přede mnou všichni schovali. Co když teď je to ta chvíle? Co když teď zjistím, že je všechny vyměnili?
 
 Kéž by.
@@ -166,3 +184,5 @@ Na konci ulice jsem měla zaparkované auto, odemkla jsem ho, sedla si dovnitř,
 Svírala jsem v rukou volant a podívala se do okna přízemního domku přede mnou. Jde mi naproti, naproti k oknu. Včera volal, uvízl v dopravní zácpě a zajímalo ho, jestli má cenu dál čekat v koloně, nebo to na nejbližším výjezdu vzdát.
 
 Měl hlas, jako když přejedete dlaní po vlhké trávě. Stáhl žaluzie a já už z něj neviděla nic. Co když teď je to ta chvíle? Možná ta nejhorší, možná ta jako všechny ostatní? Co když mě zatím, aniž by si toho kdokoli všiml, vyměnili?
+
+</section>

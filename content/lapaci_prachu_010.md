@@ -3,6 +3,8 @@ title: Tři
 contentType: prose
 ---
 
+<section>
+
 Je mi dobře jako už dlouhou dobu ne. Jasně, ráno se vzbudím s poněkud špatnou náladou, ale kdo se budí sluníčkově kromě mojí šéfový? A komu by se navíc líbilo probuzení záchvatem kašle? Prostě mě škrábe v krku, ucpaný dutiny, občas mi stoupne teplota, jsem holt nachcípaná. No takže se vzbudím, nasnídám, před cestou do koupelny se dokonce i na poslední chvíli rozhodnu mírně, no jo, fakt mírně, ale aspoň něco, že jo, rozhýbat, trochu protáhnout končetiny, omylem při tom shodím láhev ze stolu, ta se rozbije, pak omylem šlápnu na střep, krev roznesu po koberci, když se daří, tak se daří. Před zrcadlem si pak opatrně natřu odřený nos mastičkou, kápnu si do očí plných rýmy nějaké zázračné kapky a vyrážím do práce. Těch pár stanic se projdu pěšky, to je teď moje nová rutina, zjistila jsem, že je to lepší než sedět v zaprděné tramvaji, kde všichni ještě páchnou spánkem, navíc proč pro sebe něco neudělat, proč nenasát trochu čerstvého vzduchu, než si svou půlhodinovou zdravou životosprávu pokazím dvojičkou cigaret před vrátnicí. Dana je tam vždycky na moment v mojí hlavě se mnou, její hlavička švihá napravo nalevo, napravo nalevo – otevírám okno a svou sestru z něj shazuju ven, pak zavřu dveře a v klidu dokouřím.
 
 A taky dokud ještě nemrzne, přeci jenom do zimy už není tak daleko, i když je pořád podzim, takový ten podzim, kdy se na město snáší déšť a kdy už listí pomalu ztrácí svoji zlatou barvu, jak by řekl můj vypravěč, no ale pořád je to podzim, že jo, říkám já, podzim znamená, že není zima.
@@ -13,9 +15,17 @@ No a co pak. Pak jsem u sebe, dám si večeři, možná nějakej film a půjd
 
 Leda hovno.
 
+</section>
+
+<section>
+
 Za jednoho z těch podzimních polední, kdy se na město snáší déšť a kdy už listí pomalu ztrácí svou zlatou barvu, za jednoho z těchto podzimních polední seděla mladá žena, no ačkoli už jsme si o tom jejím mládí/stáří něco řekli, že ano, prostě za jednoho z těchto podzimních polední seděla v restauraci u jídelního stolu. Byl to takový ten čtvercový stůl pro čtyři osoby, ale ona u něj seděla docela sama, možná víc než sama, a možná vás napadne, že je to docela smutný pohled na ženu, které táhne na třicet a vypadá jako bezvýznamná tečka v restauraci, kde je kolem ní plně obsazen každý kout, smutný pohled na ženu, která vypadá jako bezvýznamná tečka v restauraci, kam přišli ostatní společně poobědvat, popovídat si a strávit příjemnou chvilku v jednom z těch podzimních polední, kdy se na město snáší déšť a kdy už listí pomalu ztrácí svou zlatou barvu.
 
 Stará mladá sedí potichu a čeká, až jí obsluha donese jídlo, protože je poslední z hostů, která před sebou nemá plný talíř. Otáčí se pokaždé, když se kolem ní mihne číšník, ten si jí ale nevšímá a obsluhuje ostatní, kteří už všechno mají, a jen těžko by je mohl ještě něčím obsloužit. Žena sedí shrbená nad prázdným stolem s bílým ubrusem – ne modrým – ne bílým… smetanovým? To už tady bylo… nad prázdným stolem bez ubrusu a najednou se před ní ve chvilce její nepozornosti objeví talíř, na něm kopeček těžko identifikovatelného jídla, třeba špagety, třeba s boloňskou omáčkou. Je hladová, je opravdu hladová, a tak pozře první sousto, jenže to se jí zadrhne v krku. Nemůže polknout, nemůže to ani vyplivnout. Patová situace, hehe, co teď, že. V první chvíli ji napadne, že se potřebuje napít, ale kolemjdoucí číšník srazí její sklenici s vodou na zem, takže její kostnatá ruka sáhne po prázdnu. Lap a nic. Žena se chytá za hrdlo, vstává, oči se jí zalévají slzami. Nikdo si jí nevšímá. Nikdo si nevšímá dusící se ženy – no dobře, ještě má dva roky do třicítky, ale těžko se jich dožije – nikdo si jí nevšímá, za jednoho z těch podzimních polední, kdy se na město moře kuře stavení… Potácí se k číšníkovi, který zrovna přátelsky koketuje s dámami u vedlejšího stolu, klepe mu rukou na záda, on ji ale odstrčí, aniž by se na ni ohlédl, odstrčí ji podobně, jako by odháněl mouchu, a tak žena stojí vprostřed příjemné restaurace, kde je obsazený každý stůl, kde není volný jediný kout, včetně toho, který právě uvolnila a ke kterému zasednou noví hosté, na něž se číšník pohotově otočí, co si budete přát, ptá se, a tak žena stojí vprostřed restaurace, kde nikdo neobědvá sám, kde všichni jedí a pijí a baví se a smějí se, no jen si to představte, možná tu někde hraje někdo na klavír hudbu, která tak zapadá do atmosféry dnešního poledne, zatímco ona se dáví a sípe a fialoví ve tvářích (konečně se do nich dostala barva), zatímco ona se mlčky dožaduje záchrany. Vtom padne na zem. Tak leží na podlaze a všichni jedí dál a všichni se smějí dál a nikdo si jí nevšímá a číšník dokoketuje a překročí ji (jako fialový koberec) a Země se točí a slunce svítí a čas se nezastaví a za okny je stále to krásné poledne, prostě jedno z těch podzimních polední, kdy se na město snáší déšť a kdy už listí pomalu ztrácí svou zlatou barvu.
+
+</section>
+
+<section>
 
 Probere mě vlastní kašel, anebo se probudím a pak se rozkašlu, anebo jsem kašlala dávno předtím, než jsem se vzbudila, anebo je to úplně jedno, nic to nezmění na faktu, že se mi stalo to nejhorší, co mohlo, totiž že jsem se probudila. Stáhnu z očí škrabošku. Ne, opravdu nespím v žádné roztomilé saténové, bavlněné nebo cojávímjaké masce na spaní, ne, moje škraboška nevypadá jako ty, v nichž spí kudrnatá pipina ze Sexu ve městě, ani nevypadá jako maska, kterých jsou plné Benátky – jako ty, co mi nakřivo visí nad postelí v ložnici a co už možná nános prachu shodil dolů. Tahle škraboška je taková ta modrá gelová věc, co strčíte do mrazáku, pak si ji natáhnete přes hlavu, nasadíte na oči a ono to vydrží pár hodin chladit. Je to dobré na otoky. Třeba na otoky z pláče tak zuřivého, že vám z něj napuchne půlka obličeje, tak třeba na ty je ideální, kdybyste to nevěděli, teda pokud jste tak výkonní jako já a jde vám to mistrovsky co do kvality, tak do kvantity, pak je tahle maska jediná šance, abyste na druhý den zvládli kupříkladu luxus mrkání. Mrkání je nevědomý fyziologický proces, při němž dochází k opakovanému otevírání a zavírání očních víček, přičemž po povrchu rohovky a spojivek je tak šířena slzní tekutina, která odstraňuje nežádoucí mikroorganismy, odumřelé buňky a jinej hnus, a v průměru průměrný člověk průměrně mrkne desetkrát za minutu, z čehož jedno průměrné mrknutí trvá průměrnou čtvrtinu průměrné sekundy.
 
@@ -44,6 +54,10 @@ Taky jsem ale s tímhle novým nastavením denního řádu zjistila, že je pot
 A pak…
 
 Pak to utne. Moje tělo mi prozradí, že už je to pro dnešek všechno, hrnečku dost, opona padá, koniec filma, že pro dnešek prd pac a pusu, zavíráme krám. Ulehnu na gauč, vložím flashku do počítače, pustím si záznamy hovorů, co jsem odbavila v práci, záznamy hovorů, co jsem ukradla z počítače sluníčkový šéfový, obejmu si kolena a nechám se ukolíbat anonymními voláními o pomoc.
+
+</section>
+
+<section>
 
 Byla neděle, ale já se donutila ráno vstát z gauče, jako bych šla do práce. Odcházela jsem od sebe bez nejmenšího tušení, co hodlám dělat, kam hodlám jít. Šla jsem přes náměstí a zastavila se v hladovém okně pro čerstvé bavorské vdolky. Skoro bych zapomněla na to, že se tu všude sdružují bezdomovci, rádoby umělci a všelijací výběrčí nejrůznějších příspěvků, kupte si klíčenku, a děti nebudou mít hlad, hoďte mi do kasičky padesátku, a rakovině bude konec, zaplať, měj dobrý pocit, nemysli na to, kam ty peníze ve skutečnosti dojdou. Třeba za ně socka z azyláku, co mu házíš dvacku do kasičky, pozve kámoše na pivo. Taky dobrej skutek. Jdu po obvodu náměstí, dívám se do výloh zavřených obchodů, nahlížím tam přes cikána bez nohy, co se opírá o berle a natahuje před sebe kšiltovku, která už dávno zapomněla, jakou má barvu. O kus dál jakýsi Jarek Nohavica pro chudé, namísto kšiltovky otevřený futrál na kytaru, hraje nějaké lidové lovesongy, takové ty písničky, co mají hrozně jednoduchou, ale samozřejmě hlubokou pointu, skrytou ryzí životní pravdu, při nichž si uvědomíte, jak je svět vlastně krásnej a že se všichni máme rádi a máme bejt k sobě hodný, Vánoce každej den. U kašny stál slepec se zlatým labradorem, kasičkou na krku a štosem časopisů v náručí. Složenou bílou hůlku měl pověšenou volně na zápěstí. Koukala jsem na něj nejdřív z dálky, když jsem ukusovala bavorský vdolek, a přišlo mi zvláštní si uvědomit, že ho můžu klidně pozorovat z těsnější blízkosti, že těžko může nastat jakkoli trapná situace. Šmírujete někoho, kdo o vás neví, přestože se neschováváte. Dokázal by si někdo vůbec představit takovou bezmoc, tuší vůbec on svou bezmoc? Podivně perverzní voyeurské vědomí. Šla jsem blíž, viděla jsem mu do obličeje. Zvláštní, že slepce prostě poznáte (když si odmyslíte tu hůl nojonojo), myslím, skutečného slepce, ne ty filmové, kde vám předhodí nagelovaného hezkého týpka, jehož hendikep z něj tak rázem dělá sexuální objekt. Poznáte to na tom, jak se tváří, na tom, co dělají s obličejem. Podivně ho kroutí, neovládají mimiku, stejně jako tenhle, dělá něco divného s nosem a pusu drží našikmo a ještě víc ji zkroutí, když prohodí název časopisu, co nabízí, něco jako Lucerna nebo Tma nebo jiné podobně výstižné heslo. Neví, jak se tvářit, protože neví, jak to vypadá, protože to neměl kde odkoukat, protože nekouká.
 
@@ -126,6 +140,10 @@ Bezdomovec ještě stojí, já na něj tak nějak podivně zadupu, bubububu, a 
 Rozesměje se. „Učíte se rychle.“
 
 „Do prdele,“ vzdychnu si a snad bych se v návalu sentimentu za tím bezďákem i rozeběhla a vysypala mu do rukou všechny peníze, co mám, ale zůstanu ještě chvíli sedět. Pak se rozhlédnu kolem a pochopím, že rozhodně tahle scénka neunikla několika nezvaným divákům, tentokrát ses vytáhla, Anno, příště si nezapomeň klobouk a stepky, nějaké drobáky ti hodí, můžeš je pak dát bezdomovcům. Střetnu se pohledem s přihlížejícím chlapem v obleku. Pokrčím na něj rameny, nezareaguje a pokračuje dál tam, kam měl namířeno. To jsou celí oni, lidi. Vstřebat, nic nevrátit a odejít. V tomto případě s vydařenou historkou v kapse – to takhle stojí slepec, bezdomovec a blondýna…
+
+</section>
+
+<section>
 
 „Vypadáš nějak zvláštně,“ zkoumá mě Dana, když konečně zaparkuje Markovy golfové hole vedle stolu. Buď jsem ztratila schopnost číst mezi sestřinými řádky, ztratila schopnost dešifrovat její maskovaná slova, anebo je výjimečně její _nějak_ jen nějak a _zvláštně_ jen zvláštně.
 
@@ -283,6 +301,10 @@ Pokrčila jsem rameny a pustila jeho ruku. Dlouhé hubené prsty. Tak odtud ví
 
 Tramtará. Moje sestra. Moje sestra mi vypráví o hlasitém vysavači souseda, který bydlí nad ní, je to ten samý soused, kterému dva roky zpátky umřela žena a který krmí na balkoně ptáky, slítá se k němu enormní množství holubů a někdy se netrefí a okupují i sestřin balkon. Jí to šíleně leze na nervy, ale neodvažuje se pětašedesátiletému sousedovi nic říct, protože jí ho je líto. Starý. Vdovec. Navíc tak pořádný. Moje sestra mi vypráví o tom, že se jí do kredence dostali moli, objevila je v mouce. Slyšela o nějakém zázračném návodu, jak se molů můžete zbavit. Udělala to (ať už to bylo cokoli, ne, vážně nemám dostatečnou kapacitu na tyhle informace, můj mozek je ochoten přijmout jen omezené množství kravin), a nezabralo to. Moje sestra mi vypráví o sousedech, vypráví mi o molech, vypráví mi o všem. Ale je zjevné, že v tomto případě to není tak, že neměla důvod mi o Viktoru Kavim vykládat, ale že měla důvod mi o něm vůbec nic nepovědět.
 
+</section>
+
+<section>
+
 Je půl druhé ráno. Tik tak jedny, tik tak druhé, tik tak třetí. Pustila jsem si už dva extra béčkové dojáky, deset z devíti kritiků by tomu přidělilo pět slziček ze čtyř, ale nic. Nic. Mně neukápla ani jedna.
 
 Chodila jsem po bytě tam a zpátky. Myslela na věci, co by mě mohly přimět k pláči. Jako třeba umírající štěňata. Vlastně to bylo to jediné, co mě napadlo. Nic. Moje sestra se rozbrečí pokaždé, když si vzpomene na něco z našeho dětství, nebo to tak aspoň měla dřív, když se se mnou snažila mluvit o Miriam a o tom, co bylo, když mi vyprávěla, jak se tehdy cítila sklíčeně, tehdy, když mě od ní odvedla vychovatelka, co mi nabídla, abych jí říkala teto Jarko. Pamatuju si, jak natahovala, když mi před pár lety říkala: „A pak jsem tě sledovala, jak jsi šla po schodech do toho domu. Odcházelas a odnášela sis mojí rukavici. Víš, prostě jsi ji držela a šla jsi s ní. Zůstala ti v ruce, když ses mě pouštěla. Přišlas mi tak malinká, a přitom už ti bylo jedenáct.“ Mne nemůže dojmout k slzám nic, na co si vzpomenu. Všechno je to spláchnutý.
@@ -298,3 +320,5 @@ Jako bych si chtěla připálit cigaretu, a přitom už dávno kouřila.
 Snažila jsem se vzít si zpátky grotesku, když na původní film už nedosáhnu, jenže to nešlo. Co by na to řekla Mercedes? Řekla by něco jako: „Jo, kotě, víš, co musíš, máš dvě možnosti… Spolkni to, nebo vyplivni. Spolkni, nebo vyplivni.“ A já říkám: Zaručeně ta nejhorší chvíle mýho života. Kromě těch ostatních.
 
 Ta sestřina rukavice byla světle modrá a párala se na palci.
+
+</section>

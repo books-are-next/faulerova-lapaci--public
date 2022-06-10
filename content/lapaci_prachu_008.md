@@ -3,6 +3,8 @@ title: Jedna
 contentType: prose
 ---
 
+<section>
+
 Rušnou ulicí prochází mladá žena, ačkoli ve skutečnosti je starší, než si představujete. Je jeden z těch podzimních dnů, kdy se o slovo hlásí dozvuky léta. Ano, lze říci babí léto, ale byl to jeden z těch podzimních dnů, kdy se o slovo hlásí dozvuky léta. Slunce už nehřálo dost natolik, abyste vysedávali na lavičce v parku, ale ještě to stačilo na procházku jen v tenkém svetru. A v jednom z takových svetrů šla právě mladá žena, vážně je starší, než si představujete, po rušné ulici. Vlastně jde v kabátě… ne, ve svetru. Hm. Mladá žena šla ulicí jen v lehkém smetanovém kabátě. Bylo přívětivé odpoledne, tak přívětivé, jak si jen dokážete přívětivé odpoledne představit v jednom z těch podzimních dnů, kdy se o slovo hlásí dozvuky léta.
 
 Byla to štíhlá, vysoká žena, třebaže byla spíš hubená a líně vytáhlá, a její plné rty, i když si představujete zcela mylně smyslné plné rty namísto kachní protáhlé pusy, která i přes lehký úsměv budí dojem dětsky nazlobeného nafouknutí – což nyní pro potřeby vyprávění opomeneme a budeme myslet na to, že – její plné rty směřovaly koutky lehce vzhůru, do úsměvu, co byl stejně svěží jako jeden z těch podzimních dnů, kdy se o slovo blablabla. Jen si to představte, tu vlídnou atmosféru, která se snáší na město, když vítr, ani chladný, ani teplý, ani prudký, ani slabý, cuchá její vlasy, roztančí plátěný kabát kolem jejích boků, ani oblých, ani ladných.
@@ -27,6 +29,10 @@ Tlumeně ke mně doléhá vyzvánění telefonu. Nejspíš z kapsy kabátu. Je 
 
 Nohou si přišoupnu popelník a natáhnu se po krabičce cigaret. A pak cvak, připálit, cvak. Přejedu palcem nohy kočce po oprýskané náprsence. Znovu se mi rozezvoní telefon, tak mě napadne, že moje sestra by ten popelník nenáviděla. Ona by nenáviděla celý můj byt, ale nedala jsem jí k tomu příležitost, nikdy u mě nebyla. Toho kýče a prachu by na ni bylo víc, než by zvládla snést. Koncentrace nevkusu, v tom si rochním. Moje skládka věcí, výstavka škváru, sbírka zbytečností, na kterých nikomu včetně mě nezáleží. Krámy potřebné asi jako celá moje existence. Žádné umění, žádný suvenýr, žádní nositelé vzpomínek, žádné sběratelské libůstky. Jen lapače prachu, které nakupuji a kradu. Někdy něco dostanu, ale spíš nakupuju a kradu. Spíš kradu. Skoro i na ni už se začínalo prášit, když tu už druhou hodinu v tichu místnosti seděla, říká vypravěč. Úplné ticho mi nikdy nevadí, dokud si neuvědomím, jak úplné je. Jen troje hodiny tikají, každé jinak, každé mají svůj čas a jedny občas vynechávají, dělá jim problém přehoupnout se přes tři čtvrtě na dvanáct, občasné zapraskání parket, zvuk pálícího se papírku hořící cigarety a cvak-cvak.
 
+</section>
+
+<section>
+
 Probudila jsem se na podlaze v šest padesát dva, možná padesát sedm, a možná jsem se neprobudila, a první, co mě uhodilo do nosu, byl zakyslý puch rozlitého vína. Posadila jsem se a prokřupala krční páteř. Přetáhla si triko přes hlavu a hodila ho na rudý flek vsáknutý do parket vedle překlopené láhve. Bosou nohou jsem louži tričkem přešudlala a pak ho vyhodila do koše. Čas na nové triko, čas na nový zvyk. Tak, a den odznova, však to už znáte. Kartáček do pusy, čurání, ventilek, splachování. Tentokrát svou očistu doplním a zbavím se pachu vína a kouře. Do sprchového koutu seskočím rovnou z mísy i s kartáčkem v puse.
 
 Vzbudil mě fluor v krku a studená voda. Nějakým způsobem jsem se ve sprše svezla do dřepu a usnula, můj šlofík nějakou tu minutu zabral, soudě podle vyčerpání teplé vody. Promodralými prsty jsem otevřela dvířka od sprchy. Sedm dvacet. Delší šlofík, než jsem si myslela. Zbavila jsem se toho sajrajtu v puse a vydala se do ložnice, kde jsem ze sbírky černočerných nudných slušných kousavých šatů knihovnice po přechodu vybrala jeden kousek. Vlasy ulízla za uši. K snídani jsem si dala hořké kafe a cigáro. Kručení v žaludku mi ale poroučelo denní příjem koblihy. Teď totiž snídám koblihy.
@@ -34,6 +40,10 @@ Vzbudil mě fluor v krku a studená voda. Nějakým způsobem jsem se ve sprš
 Jste to, co jíte. Jsem mouka a cukr a tuk s čímsi lepkavým uvnitř.
 
 Přehodila jsem si přes rameno kabát a tašku a vyšla do chmurného počasí. Dozvuky léta byly tytam, říká vypravěč, léto si strč do prdele i s dozvukama, říkám já. Na rohu ulice jsem se zastavila v pekárně a koupila jednu s čokoládovou a jednu s borůvkovou náplní.
+
+</section>
+
+<section>
 
 K sestře jsem dorazila lehce po páté. Hned ve dveřích mě uvítala s celou trojicí svých potomků za zády. Chuděry.
 
@@ -109,6 +119,10 @@ Tramtará. Moje sestra. Moje doufající sestra. Ne, nemá cenu se jí ptát, pr
 
 Co by mi na to řekla Mercedes? Řekla by třeba: „A co je jako ryzí, zlato? Ryzí zlato?“ A Ondřej by řekl: „Kdo si nechce nechat ubližovat, tomu nikdo neubližuje.“
 
+</section>
+
+<section>
+
 Vracela jsem se domů od sestry a litovala, že jsem si nevzala auto. Šla jsem pěšky snad tři kilometry, stmívalo se neuvěřitelně rychle a začalo přituhovat. Vzpomněla jsem si, že když jsem byla malá a vracela se domů za soumraku, letěl mi hlavou příběh, letěla mi hlavou představa, že se celá ta část města plná identických malých uliček přetransformovala v paralelní svět, který vypadá na chlup stejně, ale kde je všechno docela jinak. Jenže o té zlé transformaci jsem věděla jen já, protože jedině já zůstala stejná. Všechno bylo najednou temné a cizí. Šla jsem vystrašeně tmou a představovala si, že až přijdu domů, všichni budou jiní. Matka, otec, sestra. Přijdu tam a budu vědět, že jsou to jen napodobeniny mojí rodiny. Třeba mechanické stroje, co vypadají jako lidi, nebo ufoni, co vypadají jako lidi, nebo ďáblové z pekla, co vypadají jako lidi. A nebylo na tom to nejhorší, že se všechno změní a odcizí, že všechno potemní jako ty ulice, kterými jsem procházela. Nejvíc mě děsilo to, že jen já zůstanu stejná. A nebudu to moct nikomu říct. Nebudu se o to ani moct pokusit, protože všichni budou oni. A oni budou vědět, že já zůstala já. Vždycky jsem se pak po příchodu domů dotazovala matky a sestry a někdy i otce (a je to většinou poměrně vytáčelo) na věci, které mi mohli zodpovědět jen „ti praví“ oni.
 
 To mi bylo asi sedm nebo osm.
@@ -118,6 +132,10 @@ A když jsem se takhle po nějaké době vracela znovu domů tmou a ztichlými
 To bylo předtím, než mi Miriam zabila otce.
 
 Ba-dam tsss.
+
+</section>
+
+<section>
 
 Jsem operátorka s prošlou lhůtou trvanlivosti soukromé informační linky. Informuji lidi. O všem. Když něco nevíte, neváhejte a brnkněte mi. Řeknu vám úplně všecko. Teda to, co se dá najít v našich databázích nebo na internetu, takže jestli chcete ušetřit, prostě si to najděte sami. Řeknu vám, kolik zubů má veverka, v kolik vám jede autobus, jaký je současný kurz amerického dolaru, která dálnice je právě ucpaná, kolik váží Justin Bieber, jakou pobočku vaší banky máte nejblíž, jaké je číslo na poštu, kolik hodin právě mají v Arunáčalpradéši. Jsem vaše instantní obligátní odpověď. Celý den nedělám nic jiného, než poslouchám, co lidi chtějí, hledají a potřebují. Svět pokládá otázky, já odpovídám. Práce nezbytná jako celá Annina existence, jak si myslí můj vypravěč, v době internetu a maximální dostupnosti všedních informací si tu hraju na všeználka. Spása negramotné populace na drátě. Vše vám povím, a co nevím, tam vás přepojím.
 
@@ -196,3 +214,5 @@ Nebudu se trápit.
 „Dobrá. A nemusíte mít obavy. Však víte,“ hodí bradou k nástěnce s mojí fotkou a spiklenecky na mě mrkne. To teda vím. Mávne mi a odchází a já hážu druhý granát přes rameno. Nasadím zpět sluchátka. Řekl: „Jsem zoufalej“ a já, jen já ho mohla z jeho zoufalství vysvobodit. Řekl: „To byste byla hodná“ a já se jeho pomýlenosti usmála. Měla bych běžet, vždyť přece jedu na tu Šumavu. Zoufalej, zoufalej, zoufalej.
 
 Jo, to jsem vlastně zapomněla, trkám se do čela, když z uší stahuju sluchátka. Já občas lžu.
+
+</section>
