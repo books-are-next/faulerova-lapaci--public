@@ -3,11 +3,17 @@ title: Pět
 contentType: prose
 ---
 
+<section>
+
 Takovéhle ráno zažijete jen na počátcích zimy, takové ráno, kdy ve vzduchu ucítíte první mráz, už dost surový, aby vás zaštípal v nose, ale také stále dost nejistý na to, aby vám křehly kosti v těle. Náměstí se plní lidmi, bezdomovci se mačkají na sebe podél uliček s napřaženýma rukama, podpatky kancelářských nanynek klapou na kočičích hlavách, když se snaží udržet důstojnou chůzi, nesmeknout se, nezahučet do spár dlažby, děti obtěžkané aktovkami kreslí prsty po výlohách a pak utíkají pryč, až za nimi vlají šály a bambule zimních kulichů, muži se zarudlými nosy vypouštějí páru z pusy, když si sjednávají schůzky přes mobilní telefon a popíjejí kafe z kelímků s plastovým uzávěrem to go. Takovéhle ráno, kdy si toužíte dát horký čaj a zachumlat se zpátky do peřiny, tohle ráno, o němž všichni budou celý den mluvit, už je to tady, zima už přišla, je to potvrzené, protože vy cítíte ve vzduchu mráz, ten první mráz, už dost surový, aby vás zaštípal v nose, ale stále dost nejistý na to, aby vám křehly kosti v těle. Tohle ráno, které je posledním ránem Annina života.
 
 Anna stojí na místě, kde obvykle stává slepec, stojí tam a rozhlíží se kolem, náměstí se plní, lidé přibývají, ale žádný neubývá, hemží se kolem, prodírají se mezi sebou, budují si vlastní cestičky mezi nabalenými těly, nevrle bručí a razí a budují a razí a budují v tohle ráno, kdy cítíte ve vzduchu první mráz, dost surový, aby vás zaštípal v nose, ale pořád nejistý na to, aby vám křehly kosti. Nikdo však nevráží do Anny, ne, udržují si od ní odstup, stojí vprostřed pomyslného kruhu o průměru dvou tří metrů, a pokud zaostříte na její oči, i když proč byste to dělali, ona dneska umře a je to úplně jedno, ale tedy pokud zaostříte na její oči, neujde vám zaražený vyděšený pohled. Jako by nechápala, že vyšlo slunce, že nastal tento den. Cítila, že něco drží v ruce, pohlédla na ni. Jistě. Co jiného. Držela nůž. Nabroušený nůž s dlouhou čepelí. Ví, co má dělat. Ví, co má dělat v tomhle ránu, kdy cítíte ve vzduchu mráz – surový – v nose – kosti. Bodne se nejprve tam, kde si myslí, že je srdce. Ucítí bolest, která jí projede do celého těla, a fííííí, ještě dál. Čekala by, že se jí podlomí kolena, že se jí zamotá hlava, že nenajde dost síly na to, aby z hrudníku nůž vytáhla a bodla znovu. Ale překvapivě se ukazuje, že v tomto úsilí dokáže setrvat, že tohle je něco, co jí pro změnu jde. Drží v roztřesených rukou nůž s čepelí od krve, hrudník jí zalévá podezřelé teplo, zvedá hlavu a nikdo si jí nevšímá, nikdo se nezastaví. Bodne znovu a zakřičí při tom, oprava, chce zakřičet, ale nevydá ze sebe ani hlásku. Tak je to sen? Mohl by být, to se tak ve snech stává, ten nehlasný křik. Ale ne, to není sen. Děje se to. A děje se to za rána, kdy cítíte ve vzduchu první mráz. Stále ale neumírá, i když síly jí ubývají. A tak se bodne ještě několikrát rychle a mělce, šup šup šup, až nakonec spadne, a pára, která jí při tom vyjde z úst, je to poslední, čím zanese tenhle svět.
 
 Je to potvrzené, Anna je mrtvá. Kaput, tuhá, mrtvola, the end. Pomyslný kroužek mizí, lidé z náměstí mizejí. Je to potvrzené, ale nikdo o tom nebude celý den mluvit, nikdo se o tom ani nezmíní tohoto rána, ach, kdy ve vzduchu cítíte první mráz, dost surový, aby vás zaštípal v nose, ale ještě stále nejistý na to, aby vám křehly kosti v těle.
+
+</section>
+
+<section>
 
 Seděla jsem v čekárně advokátní kanceláře, dohodla jsem si schůzku na jednu hodinu. Pozorovala jsem ubohé vybavení místnosti, nebylo tu nic k obdivu, nic k prohlížení. Samé dekorační paskvily, co se tvářily jako minimalistický vkusný design. Váza s umělými kytkami, květináče se zeleným plevelem, konferenční stolek s prosklenou deskou, malá, nepohodlná koženková křesílka s nesmyslně umístěným knoflíkem uprostřed sedáku, takže vás škrábal do zadku, tři obrázky, na každém z nich černobílá fotka nějaké další kytky nebo kameny nebo ulice, a v tom vždy do červené nebo modré nebo žluté barvy vytažený jeden prvek. Všechno bylo laděno do šedé, jen sem tam nějaká agresivní pastelová barva. Zdálo se, že tu už řádil někdo přede mnou a sebral, co šlo.
 
@@ -107,6 +113,10 @@ Tím, že se mě zbavíš, Viktore Kavi? Jeho brada je směšně malá v poměr
 
 „Zapomeňte na to,“ řeknu rychle a zmizím.
 
+</section>
+
+<section>
+
 Lehla jsem si do sprchy tak, jak jsem byla. Ve svetru a v kalhotách. Tak, jak jsem byla, když jsem prvně vyhnala Jakuba. Ne, já ho nevyhnala. Já se ho vždycky jen snažila dohnat k tomu, aby se vyhnal sám. Aby to vzdal. Aby to zabalil. Aby to pochopil. Aby si do prdele uvědomil, že mu to za to nestojí. Jenže on se na mě vždycky díval jen tím svým pohledem, co říkal: „Vážně, Anno? Vážně?“
 
 Tenkrát jsem byla opilá nebo sjetá. Tenkrát nevěděl, kde jsem celou noc byla a co jsem dělala. Neptal se jako obvykle. Jenom přišel do koupelny a uviděl mě v otevřeném sprchovém koutě. Byl rozcuchaný, ale poznala jsem, že nespal.
@@ -114,6 +124,10 @@ Tenkrát jsem byla opilá nebo sjetá. Tenkrát nevěděl, kde jsem celou noc by
 „Píchala jsem s Adamem.“ To jsem řekla. A odpovědí mi byl výraz, zase ten výraz, za který jsem ho nenáviděla ještě víc. Bylo jasný, co měl udělat. Dala jsem mu tři kvízové možnosti, za a: jednu jí vrazím a řeknu, že je děvka, za b: jednu jí vrazím a řeknu, že je děvka, za c: jednu jí vrazím a řeknu, že je děvka. Jakub si vybral za d: budu na ni beze slova zírat, moje ústa skoro nebudou vidět, ztratí se v tom lese z mých krátkých vousů, prozradí mě jedině obočí, podle jejich linie Anna vždycky pozná, že jsem smutný, že mě zklamala, že v nitru zase ustupuju o další kilometr vzad, že už se skoro ztrácím, že za chvíli už budu definitivně pryč, a pokaždý, když si bude chtít podkopnout nohy, bodnout kudlu do zad, říct si, to je ta nejhorší chvíle mýho života, bez debat, teď a nikdy jindy, pokaždý, když dostane tyhle její choutky, vybaví si moje ústa schovaná v lese z vousů, co mi pokrývají tvář, a oči, co ji sledují a jimiž se ptám: „Vážně, Anno? Vážně?“
 
 Já měla chuť vzít nůž a vrazit ho do něj. Jednu hlubokou do srdce a pak šup šup šup. A víš, co jsi provedla, Anno, vzpomínáš, cos provedla? Ptá se vypravěč a mne si ruce. Počkej, počkej, já to povím. Představte si, milí čtenáři, Annu, oblečenou, jak sedí ve sprchovém koutu, voda jí kape na vlasy, smáčí jí obličej, smáčí jí líčidla, smáčí jí kalhoty a bílý nátělník. Mezi ní a Jakubem stoupá pára jako tenký závěs, jako clona, jako zeď – sice slabá, ale skoro přes ni není vidět – jen občas prosvitne Jakubova tvář. Teď, jen tak pro efekt – vezměme si to z jeho pohledu. Jakub shlíží k ženě, která pro něj znamená víc než cokoli, co kdy poznal, shlíží k ní, odporné, špinavé, ještě ulepené od sexu s jeho kamarádem. Mísí se v něm zklamání a odpor a smutek a křivda, ale překvapen přesto není. Neví co dělat, a tak nedělá nic, neví co říct, a tak neříká nic, čeká, až Anna udělá tečku. Až to rozhodne. A co Anna udělá? Snad se mu v první chvíli zdálo, že je to jen optický klam, že za to může ta pára. Počkal si, až ji uvidí jasněji, počkal si… Tak opravdu, žádný klam. Co viděl, byl škleb. Annin opovržlivý úšklebek, a v tom nebylo nic dobrého, v Anně nebylo nic dobrého, přitom celý svůj čas s Annou zasvětil právě hledání dobra v ní. Otáčel se k odchodu, právě když se poprvé od smrti matky rozplakal, a myslel si, a ještě dnes si to myslí, že to Anna neviděla.
+
+</section>
+
+<section>
 
 Poslední volný stůl byl v těsné blízkosti důchodce, který kolem sebe šířil puch staroby. Zatímco mi sestra vyprávěla ztišeným hlasem o dokumentu nějaké mrtvé celebrity, co šel včera na dvojce, ztišeným, protože důchodce natahoval uši, pozorovala jsem, jak stařec distingovaně přikládal mátový čaj třesoucí se rukou k ústům, co měla stejnou barvu jako jeho kůže. Prořídlé vlasy, jejichž barva byla spíš zažloutlá než bílá, měl sčísnuté dozadu, byly na nich vidět cestičky od zoubků bezpochyby takového toho malého hřebínku bez rukojeti, co má nejspíš zasunutý v náprsní kapse bílé košile, která je ale už zažloutlá podobně jako ty vlasy. Na spánku měl tři hnědé pigmentové skvrny a obličej zvrásněný, obzvlášť čelo. Díval se z okna jakoby někam daleko, možná se ohlížel zpátky do let, co jsou za ním, do své minulosti, do budoucnosti těžko, tam už ho toho moc nečekalo. Na prstě měl snubní prsten, klasický široký zlatý kroužek, což nutně neznamenalo, že na něj jeho žena čeká doma. Možná čeká úplně jinde. Sestra si držela před nosem a pusou ruku, slyšela jsem jen uauaua blabla uauaua. Ví ten stařec, že tak páchne? Cítí to ze sebe? Ten zápach neříkal jen, jsem starý, říkal, jsem zpuchřelý jak stránky staré knížky, co někdo zapomněl na půdě, co už nikdo nemá zájem číst. Moji duši pokryla plíseň. Rozhlédla jsem se po těch kolem, jak by to tu asi smrdělo, kdyby se ze všech linul pach jejich duše. A zpátky k uauauaua blabla uaua. Jak asi páchne moje sestra?
 
@@ -357,6 +371,10 @@ Pomoc? ptá se vypravěč. Pomoc, odpovídám mu v duchu. „Pomoc…“ řík�
 
 Shlíží na mě, sem dolů, sem ke mně, tam, kde přesně právě teď jsem.
 
+</section>
+
+<section>
+
 Ten mráček jsem viděla už od svého kotce po první hodině odbavených hovorů, po první hodině sledování otevírajících se hlav a poslouchání otevírajících se hlav, po první hodině pracovní středy, kdy jsem si stihla ublinknout při otevírání interní pošty, která se skládala mimo jiné z hromadného mailu s motivačním materiálem (powerpointová prezentace s fotkami kotěte a mláděte šimpanze za doprovodu průpovídek o sounáležitosti a přátelství) a z pozvánky na jakési školení o ergonomickém uspořádání pracovních povinností a nástrojů. Trefili se přesně – s tím školením. Jestli něco momentálně jsem, tak naprosto a zcela, plně a beze zbytku neergonomicky uspořádaná. Jsem výsledek takové té středoškolské kolektivní koláže z hodiny výtvarné výchovy, rozstříháte plakát postavy s obličejem a pak lepíte části těla tam, kam nepatří. Ruka místo hlavy, ucho na břiše a podobně. Všechno špatně, všechno jinak, ale umělecké dílo to tedy určitě není.
 
 Ten mráček jsem viděla, byl tam, trčel šéfové přímo z tváře, když stála tam nahoře, tam na hoře Olymp, ostatní vedle ní na svých trůnech předstírali, že něco dělají, že pracují, předstírali, že nebrouzdají na internetu a nerozesílají maily se šimpanzem a kotětem, že dohlížejí na řád a chod a že bez nich by se celý systém zhroutil.
@@ -388,6 +406,10 @@ Její obočí jsou dva slepýši na trampolíně.
 „Uvědomujete si, co jste mohla tím hovorem způsobit? Připadá vám to normální?“
 
 Slepýš patří do třídy plazů, ale není had, ačkoli za něj bývá často mylně považován, a je to silně ohrožený druh.
+
+</section>
+
+<section>
 
 Navzdory všemu harampádí, co si žilo vlastním životem v mým obýváku, v mojí kuchyni i ložnici, nenašli byste skoro žádnou fotku. Měla jsem jen tři, o kterých jsem věděla. A jedna z nich ani nebyla moje. Nikdy jsem neměla fotoalbum jako moje sestra, která si stále chodila vyvolávat fotky z každé dovolené a školní besídky svých dětí. Měla je krásně uspořádané podle osob a událostí. Třeba „Zdenda – narozeniny“ a každý rok do nich doplnila vždy pár fotek, na nichž její syn sfoukává svíčky z dortu, dostává a rozbaluje dárky. Nebo to velké bílé album plné trapnosti s nápisem „Svatba“, případně to oranžové album plné lží s názvem „Máma a táta“. A pak měla to, co si schovávala jako poslední nárok na tajemství, co jí zůstalo po založení toho velkého bílého. Měla tam vyrovnané fotky svých dětských lásek a dospělejších lásek. Živě ji vidím, jak se občas těma fotkama probírá a představuje si, s kým z nich by měla lepší život, než je ten, co si vybrala.
 
@@ -425,6 +447,10 @@ Spolkni to, nebo vyplivni.
 
 A já to většinou spolkla.
 
+</section>
+
+<section>
+
 Podle adresy to mělo být přesně tady. Seděla jsem v autě před jeho domem a střídavě kouřila a jedla dětské piškoty.
 
 Jste to, co jíte. Já jsem vyšlehané nic, co se vám lepí na patro.
@@ -432,6 +458,10 @@ Jste to, co jíte. Já jsem vyšlehané nic, co se vám lepí na patro.
 Ani nevím, jak dlouho jsem tam seděla, ale vím, že se trochu stmívalo, když vyšel ze dveří, v závěsu za ním skákalo jak na péru cosi podivně mrňavého a asymetrického. Paranoidně jsem se zabořila do sedadla a posunula jsem se níž. Připadala jsem si trochu jako v televizní kriminálce. Škoda že tu nemám americké koblihy a kafe v kelímku a na nose velké černé brýle, na hlavě uvázaný šátek nebo naraženou modrou kšiltovku baseballového týmu. Místo toho jsem si po balíčku piškotů narvala pusu gumovými medvídky a sledovala, jak jeho vysoká postava kráčí po kraji chodníku s fretkou/lemurem/kočkou/psem na špagátě. Když jsem ho měla z dohledu, vyšla jsem pomalu z auta a šla k brance jeho domu. Byl to malý rodinný domek ve čtvrti plné malých rodinných domů s vanilkově žlutou omítkou a bílými vchodovými dveřmi, s hnědě natřenou brankou, na ní hnědou poštovní schránkou se štítkem s jeho pitomým jménem a vedle se zvonkem, kovovým a malým, s vizitkou s jeho pitomým jménem. Zadívala jsem se mu do oken a za jedním v přízemí se mihla ženská postava. Něco nesla, zmizela, pak se zas objevila. Zastavila se u konferenčního stolku blízko okna. Měla jsem na ni dobrý výhled z profilu. Držela v ruce tablet, dívala se do něj, dlouhé hnědé vlasy, nejspíš kaštanové, určitě kaštanové, jí ležely na ramenou. Když mluvila před pár minutami se svým mužem, něčemu se zasmáli. A já si myslela, že Viktor Kavi se nesměje. Ale on se nesměje jen na mě.
 
 Trhaně se nadvakrát otočila mým směrem, zabořila jsem oči do popraskaného chodníku a šla a šla a šla a na konci ulice jsem v dálce zahlédla Viktora Kaviho s kočkoprasetem na špagátě, otočila jsem se a zamířila zpátky do auta, které jsem rovnou nastartovala a odjížděla a odjížděla a odjížděla tak rychle, že to popelnice neustála a spadla na zem. Viktor Kavi bude mít co uklízet, až se vrátí. Až se vrátí za svou ženou s kaštanovými vlasy, co jí leží na ramenou, s vlasy, co jistě voní po meruňkovém nebo mandlovém nebo levandulovém šamponu, vlasy, kterými se Viktor Kavi rád probírá, rád v nich šmejdí prstama, pořádá dlouhé výpravy po pěšinkách, vlasy, do kterých boří svůj špičatý nos, vlasy, co ho po ránu jemně šimrají na tváři, když se nad ním jeho žena sklání, aby ho probudila.
+
+</section>
+
+<section>
 
 V noci mě ze spaní vytrhla ruka, která mi zacloumala ramenem. Nejdřív cloumání, pak škrábání zezadu na krku.
 
@@ -442,3 +472,5 @@ V noci mě ze spaní vytrhla ruka, která mi zacloumala ramenem. Nejdřív clou
 „Hej, Anno, s nikým ses nevyspala. Jen jsi chtěla, aby to byla pravda,“ ozvalo se ještě blíž. Cítila jsem, jak se mi naježila kůže podél páteře.
 
 „A tak jsi tomu uvěřila,“ zasmál se vypravěč.
+
+</section>

@@ -3,6 +3,8 @@ title: "Osm a\_půl"
 contentType: prose
 ---
 
+<section>
+
 Tik-tak jedny. Ticho druhé. Ticho třetí.
 
 Ten večer, ten nedělní večer, kdy Dana byla u Běty, ten večer, kdy jsem už měla dávno spát, a místo toho jsem s matčinými kadeřnickými nůžkami rozstříhala závěsy v kuchyni na proužky a při tom ve walkmanu poslouchala písničky kapel, co si sestra nahrávala z rádia, písničky, co vyprávěly o chlapech, co do práce nevstávaj a svou ženu nemilujou, co vyprávěly o tom, že chtěj zas v tobě spát, nebo o tom, že jsou o půl třetí na náměstí ve Valašském Meziříčí, to odpoledne jsem zaslechla, jak klaply vchodové dveře, a věděla jsem, že se vrátil domů otec.
@@ -18,6 +20,10 @@ Tak to bylo.
 A pak si šla na dvanáct let odpykat za můj zločin můj trest.
 
 Ba-dam-tsss.
+
+</section>
+
+<section>
 
 Byla to ta nejhorší chvíle jejího života. Kromě všech ostatních. Byla to ta nejhorší chvíle mého života, tedy kromě těch ostatních.
 
@@ -95,6 +101,10 @@ Otázka ho překvapila. „Ne.“
 
 „Musíte s tím přestat.“
 
+</section>
+
+<section>
+
 Seděla jsem v autě a sledovala sestru, jak se blíží.
 
 „Co to je?“ změří si krabici na sedadle spolujezdce jako podezřelého pasažéra.
@@ -139,6 +149,10 @@ Jsem to, co jsem, jsem to, co jsem, a ničím jiným nikdy nebudu, ať to spolk
 
 Prázdným jevištěm znějí unavené bicí, ba-dam tsss, odklízím se ze scény a zhasínám poslední rozblikanou zářivku.
 
+</section>
+
+<section>
+
 Sleduju Annu, jak spí schoulená na gauči a v rukou dnes místo sklenice drží Newtonovu kolébku. Sleduju ji a skoro bych ji vzal do náruče a pochoval, kdybych byl hmotný, kdybych byl z masa a kostí, nebo kdyby ona byla. Sleduju ji ukonejšenou vlastním přesvědčením, že vzpomínka na to, jak vzala nůžky a bodla, přesvědčením, které jí vydrží snad až do smrti, snad není příliš vzdálená, přesvědčením, že tahle vzpomínka, která vybublala z kanalizace její paměti, je ta pravá, ta skutečná.
 
 Ale tak já vám to řeknu. Ne, neřeknu. Řeknu. Neřeknu. Jediné, co si neodpustím, je nevinná poznámka, že to všechno mohlo být taky trochu jinak. Znáte Annu, ne? Jak si ty věci pomotává, chudinka. Ještě nějakou dobu jí v uších bude znít zvolání, cos to provedla, Anno?!, aniž by ji napadlo, že to mohla být matčina reakce nad rozstříhanými závěsy a jejími kadeřnickými nůžkami, které ležely na zemi a které si Anna půjčila bez dovolení, ještě nějakou dobu se bude trápit tím, jak to, že si z toho dne, krom modlitby u otcova těla, tolik let nic nepamatovala, aniž by ji napadlo, že nebylo, co si pamatovat, že šla spát. Že spala. Jako teď.
@@ -153,8 +167,14 @@ Třeba to takhle bylo, ale třeba ne, a vy jste se nechali zmást stejně jako 
 
 No nic, plácnu se do kolen a namáhavě se zvednu z křesla, abych přešel k Annině vitríně a sáhl do police, protože nastal čas, abych za­stavil poslední hodiny.
 
+</section>
+
+<section>
+
 Rušnou ulicí prochází mladá žena, ačkoli ve skutečnosti je starší, než si představujete. Je jedno z těch svítání tajících rampouchů a rozbředlých kaluží, jedno z těch svítání, kdy se o slovo hlásí dozvuky včerejší noci, jistě, dalo by se říct, že zkrátka nastal nový den, ale bylo jedno z těch svítání, kdy se o slovo hlásí dozvuky včerejší noci.
 
 Chystala se přejít ulici, zastavila se na obrubníku a zahleděla se do korun stromů na protější straně, zahleděla se do korun holých stromů, opadaných a nahých, pokrytých slabou vrstvou sněhu tak bílého, jako byste ho vyprali v Perwollu, tak lesklého, jako byste ho pokryli glazurou, pod slunečními paprsky, jejichž tíhu snad slabé větve ani nemohly unést, ačkoli teprve svítalo a je dosti nepravděpodobné, že sluneční svit měl již takovou moc, ale to pro potřeby vyprávění nyní opomeneme a budeme se tvářit, že takovou moc měl. Bylo to jedno z prvních Anniných svítání v novém roce a ke všemu jedno z těch svítání tajících rampouchů a rozbředlých kaluží, jedno z těch svítání, kdy se o slovo hlásí oslovo slovo o slovo sehlá sí, bylo jedno z prvních Anniných svítání v novém roce a podobně jako obloha i Annina tvář se rozednívala, když vykročila do silnice a myslela na to, že tento její krok je krokem, který symbolizuje naději a odhodlání, je krokem do budoucna, v němž…
 
 … pardon, to bylo těsné, bumprásk a šlus, projel tady autobus, a hele, to není špatný, to ještě použiju, kde jsem to… jo, něco jako vykročila do silnice a blabla a myslela na to, že šlus autobus, myslela na to, že tento její krok je krokem, který symbolizuje naději a odhodlání, že je krokem do budoucna, v němž konečně zažije tu skutečnou a nefalšovanou, bez debat a na plné čáře nejhorší, ach ano, tu nejhorší chvíli svého života.
+
+</section>

@@ -3,6 +3,8 @@ title: Sedm
 contentType: prose
 ---
 
+<section>
+
 Není příjemněji stráveného odpoledne, ne, není, ach není, tu není, co by vás těšilo víc, za zimních odpolední, kdy za okny padá sníh a pokrývá zem bílou peřinou, není příjemněji stráveného času, ach není, než ve vyhřáté posteli, s rukama, které patří vašemu milovanému, s rukama, jež vás objímají, s tělem rozpáleným životem nebo s životem rozpáleným tělem, jež se přimyká k vašim holým zádům, ach není, za těch zimních odpolední, kdy za okny padá sníh a pokrývá zem bílou peřinou. Představte si to – představujete si to? – celým pokojem se rozléhá Roy Orbison a jeho Crying, ta krásná smutná píseň, Jakubovy silné ruce vás obemykají, jedna kolem pasu, druhá kolem ramen, cítíte jeho dotyk, co je, jako když vás překvapí vůně léta v dubnovém větru, jako když v iglú vklouznete do vyhřátých peřin, jako když jako když jako když, a Jakubovy horké rty vás líbají na zátylku a Jakubův hlas šeptá, šeptá, šeptá tak potichu, že mu nerozumíte, ale to nevadí, nevadí to, protože je to Jakubův hlas, a to je to jediné, na čem záleží za těch zimních odpolední, kdy za okny padá sníh a pokrývá zem bílou peřinou.
 
 Anna lenivě zamrká při pohledu z okna a myslí na to, ne, není, ach není příjemněji stráveného času, není jiného místa, kde bych si teď přála být, jsem přesně tam, kde mám být, ve chvíli, kdy tam mám být, s osobou, s níž tam mám být. A je to neskonale dlouhá chvíle, Orbison právě zpívá refrén, jenž se skládá z jediné prosté věty, refrén, do nějž Jakub cosi šeptá, a Anna se chvíli snaží rozšifrovat ta slova, ale neslyší nic než stále zesilující tóny písně, co hraje znovu dokola, a nesrozumitelný šepot, ten, co ničí hlasivky, a skoro nikdo to neví. Anna však ví, že ta slova nemohou znamenat nic nedobrého, protože patří Jakubovi. A už skoro upadá znovu do snu, ach, už skoro znovu usíná za jednoho z těch zimních odpolední, kdy za okny padá sníh a pokrývá zem bílou peřinou, když vtom ztichne zpěvákův hlas, ztichne i orchestr, který ho doprovází (právě když zazpívá „stopped“), a v tu chvíli, v tuhle tichou chvíli, která trvá sotva okamžik, než se zpěv rozezní dál („to say hello“) a než orchestr znovu spustí, to Anna konečně uslyší, uslyší, co Jakub šeptá, uslyší jeho hlas, co ho vždy povlékne saténovým prostěradlem, jeho hlas, co zní, jako když pokryjete dort fondánem, jako když nalijete mléko do černočernýho kafe, jako když zakápnete zmrzlinu horkými malinami a posypete skořicí, jako když jako když jako když, uslyší, jak říká: „Cos to provedla?“
@@ -15,6 +17,10 @@ Anna pak vynaloží zbytky sil a pomalu se otáčí a Jakub jí pomáhá, při
 
 A Anna pocítí úlevu jako nikdy, cítí úlevu, ach, jakou můžete cítit jen v takovém okamžiku, jen za jednoho z těch zimních odpolední, kdy za okny padá sníh a Jakub vás zadusí bílou peřinou.
 
+</section>
+
+<section>
+
 Seděla jsem v tramvaji, dívala se z okna a sledovala pouliční lampy ověšené vánočními žárovkami ve tvaru hvězd a vloček a zvonků a stromků a sněhuláků a komet. Od výstupních dveří se ozývá ženská, co chvíli zahuláká nesrozumitelný blábol a při tom sebou silně škubne. Prohlížím si ji, pokaždé když vyjekne, sklopí hlavu, jako by se styděla. Před každým dalším výkřikem se jí zkřiví tvář, nejspíš ve snaze nepoddat se tomu šotkovi, co ji lechtá na hlasivkách a otevírá pusu. Tourretův syndrom, záškubům předchází nutkání, nemá smysl ho potlačovat, protože delší zadržování vygraduje v o to intenzivnější vybití nashromážděného napětí. Lidi kolem se dívají všude, jen ne na ni, přemýšlím, jestli to má být známka taktu, nebo ignorance, nebo obojího naráz. Možná je to tím, že se blíží ty svátky, advent je tady, dudlajdudlajda, ublinknu si až za moment. S Jakubem jsme Vánoce slavili naším způsobem. Což znamená, že jsme pořídili ten nejhnusnější stromek, poházeli ho harampádím, které nás napadlo, jednou jsme místo špičky nebo hvězdy na vrchní větvi stromku měli připíchnutého plyšového medvídka, jednou jsme společně vyrobili sněhuláka z papírových koulí a přilepili mu k puse doutník. Dávali jsme si třeba i dvacítku dárků, které se skládaly ze sortimentu obchodů „vše za 39,–“ nebo „lidovka“ a podobně. Slavili jsme spolu troje takové.
 
 Člověk sedící na místě za mnou dýchá tak usilovně, že cítím, jak dozvuky jeho dechu dopadají na můj zátylek. Sáhnu si na to místo a syknu bolestí. Srdce ucítila bušit až v krku, říká vypravěč, zavři hubu, říkám já, přestaň na mě mluvit. „Ugháááájá,“ křičí ženská u výstupních dveří, Anně se zamotala hlava, říká vypravěč, zavři hubu, říkám já, nemohla se nadechnout, říká vypravěč, „beghááujááá“, křičí ženská u výstupních dveří, cítila, jak jí hoří zátylek, to místo, co vždycky patřilo jen Jakubovi, zavři hubu!, říkám já. Nastane překvapivé ticho, vzduchem zasviští jen šum otáčejících se hlav a udivených nádechů. Lidé v tramvaji se po mně otáčejí, shlížejí na mě, vidím zmatek a vidím pohoršení a slyším chichot hlásku, co říká, že blázním, že jsem se dočista pomátla, šouplo ti v hlavě, Anno, šoupity doupity!
@@ -22,6 +28,10 @@ Seděla jsem v tramvaji, dívala se z okna a sledovala pouliční lampy ově�
 „Dost! Zavři! Hubu!“ Vyletí to z mých útrob tak mocně, až mě to samotnou zaskočí. Všechny okolo zrovna tak, nejspíš to berou jako výsměch ženě u výstupních dveří, která ke mně otočí hlavu taky a při dalším svém „guhuámmá“ zapomene zkřivit obličej a sklopit hlavu, řve to přímo ke mně.
 
 „Šoupity doupity,“ odpovím jí hlasitěji. Pak nastane v tramvaji hrobové ticho, uběhne pár vteřin, nastane chvíle pro ženin pravidelný výstup, ale nic se nekoná. Zapomene na to. Zvednu se ze sedadla, přemístím se k zadním výstupním dveřím a vyskočím na další zastávce. Otočím se ještě na chodníku zpět do tramvaje a řeknu: „Až přijdu domů, všechny vás spláchnu!“
+
+</section>
+
+<section>
 
 Jak jsem seděla na podlaze ještě v kabátě, rozepnutém a s cípy pod sebou, ucítila jsem, jak mě na zadku tlačí něco, co se zdálo být vlhké a blemcavé, zdálo se to být něčím, co na zadek nepatří, a tak jsem se naklonila na stranu, abych si vytrhla cíp kabátu zpod sebe, sáhla do kapsy a vytáhla plesnivou koblihu a hned za ní hodinky mojí bývalé sluníčkové šéfové. Byl to pozlacený šmuk, co jí klouzal z ruky a věčně se jí válel u klávesnice počítače na stole. To měla za to, že mě vyrazila. Aspoň myslím.
 
@@ -32,6 +42,10 @@ Myslela jsem na něj a kdovíproč jsem myslela i na jeho ženu, na jeho šťa
 A já ji vidím, jak dřív nebo později, je to jen otázka času, čurá v jejich nablýskané, čistotou provoněné koupelně na bílomodrou tyčinku, vidím ji, jak slzí, když se jí před zraky vyrýsují dvě čárky, vidím ji, jak volá svému muži, aby se s ním podělila o tu úžasnou novinu, že jich bude o jednoho víc.
 
 I já na tu tyčinku močila i já tam měla dvě čárky i já jsem slzela. A pak nás bylo o dva míň.
+
+</section>
+
+<section>
 
 „Co tady chcete?“ vyštěkla jsem na Viktora Kaviho, který postával před mými vchodovými dveřmi, když jsem zrovna vyšla na ulici. Vypadal dost nezvykle, trochu jako stydlivý školák, kterého jsem zrovna přistihla, jak mi strká psaníčko do penálu. Měl ruce zaražené do předních kapes od kalhot, vykulené oči budily trochu ustrašený a trochu bezradný dojem.
 
@@ -191,6 +205,10 @@ Když doktor odešel, rozhlédla jsem se po klubu a můj pohled se zarazil jako
 
 Vyškubla jsem se mu a vyběhla si pro kabát zpět ke stolu. Zamířil za mnou tak rychle, jak to se zapnutím poklopce a pásku dokázal, na ulici za mnou volal, ale já běžela domů, běžela, běžela, dokud jsem se na náledí na rohu mojí ulice nesmekla, nespadla na zem a nezačala se sama sobě smát a smát a smát, dokud mi nezačaly téct slzy.
 
+</section>
+
+<section>
+
 „Co to je?“ Dana nechápavě zírá na krabičky, které před ní postupně vyložím na jídelní stůl, v ruce drží hrnky na kafe a čaj.
 
 „Obvykle se marodům nosí pomeranče nebo banány, ale nepochybovala jsem, že tím jsi zásobená,“ hodím bradou k míse s ovocem. „Tohle je chemie. To ti skutečně může pomoct,“ mávala jsem na ni postupně prášky na bolest hlavy, kapkami do krku, pastilkami proti kašli a rozpustnými tabletkami na sražení teploty. Zálibu v pilulkách jsem po matce zdědila já. Sestra se bála i brufenu. Mně na něm vadí jen ta barva.
@@ -283,6 +301,10 @@ Z Karolíny seknu pohledem k panně a pak na vířící zrníčka čaje v se
 
 „Ježiš… prosím tě, Anno, dojdi si už někam s těma zádama, seš zas zohýbaná jak paragraf.“
 
+</section>
+
+<section>
+
 Anna seděla na podlaze, zády opřená o gauč, na němž spala už několik měsíců, ačkoli měla v bytě vlastní ložnici, seděla s vytahanou mikinou nataženou přes hlavu. Skrze povolená vlákna sepraného kusu oblečení sledovala stíny všude kolem. Zacpala jsem si přes mikinu uši, abych neslyšela vypravěče, a opřela si hlavu o podsedák. Nikdy jsem se Jakubovi neomlouvala, jediné gesto, kterého jsem byla schopná a které vždycky pochopil a přijal, bylo přijít k němu a vlézt pod jeho oblečení. Byla jsem pak chvíli schovaná mezi jeho nahým tělem a rubem trika nebo svetru, dýchala ho a čekala vedle jamky pod klíční kostí, čekala vedle té jamky, o níž jsem mu vždycky říkala, že bych si v ní nejradši postavila domek a přečkala tam zimu.
 
 Potkala jsem ho. Je to už nějakou dobu, myslím, že to bylo na jaře, stál před nákupním centrem, telefonoval a smál se, třeba říkal, haló, tady Pošta. Nechtěla jsem, aby mě zahlédl, ale to jsem si měla uvědomit dřív než po třiceti čtyřiceti vteřinách zírání od stánku s kávou několik metrů od něj. Kelímek s plastovým uzávěrem jsem dávno držela v ruce, drobné už dávno měla vrácené, ale nehnula jsem se z místa. Až si mě všiml, jeho pohled mým směrem zvážněl. Mobil pak pomalu oddaloval od ucha, až ho držel jen ve svěšené ruce, neodvážila jsem se hnout a netuším, jak jsem se tvářila. Myslím, že se na mě ale nevydržel dívat, trochu smutně se pousmál, tak si to pamatuju, pak se otočil a odešel.
@@ -290,6 +312,10 @@ Potkala jsem ho. Je to už nějakou dobu, myslím, že to bylo na jaře, stál p
 Jak jsem řekla, tak se stalo. Nenáviděl mě, zcela a nefalšovaně, naprosto a kompletně, nenáviděl mě od hlavy až po paty, jak jsem řekla, tak se stalo.
 
 Telefonoval tenkrát beztak se svou novou přítelkyní, teď už není nová, teď už to bude trvalý a vážný vztah. A vyzrálý a dospělý nebo dozrálý a vyspělý. A určitě spolu nemají větší problémy než spory o to, z jakého konce se mačká tuba se zubní pastou, že pít mléko z krabice je nechutné, že nádobí po sobě má člověk dávat do dřezu, že prázdná role od toaleťáku se vyhazuje, že vlasy z odpadu se vybírají po každé sprše, že do vyneseného koše patří nový pytel. Občas se možná pohádají skutečně, ale pak se asi domluví na nějakém kompromisu. A když se usmíří, prosouloží celou noc. A on jí přitom přetáčí na břicho, lehá si na ni, a když zpomalí své pohyby, je to jen proto, že jí právě odhrnuje vlasy z krku, že jí právě přejíždí dlaní po zátylku odspoda nahoru, že jí boří nos do kůže a že se jí právě do tohohle místa chystá políbit.
+
+</section>
+
+<section>
 
 Pohazovala jsem si s tou nenápadnou bílou pilulkou zleva doprava a zprava doleva, pak jsem si ji hodila do krku a nasucho ji polkla. Klepala jsem se zimou jako ten prasokrysí ratlík Viktora Kaviho, uši jsem přestala cítit už před půl hodinou, prsty jsem měla prokřehlé a namodralé, přesto jsem se nesnažila nijak zahřát, když jsem stála v ulici Viktora Kaviho za tím hnědým plotem a nahlížela do jeho spokojeného rodinného života, kdy při nedělní večeři seděl u prostřeného stolu se svou rodinou a porcoval si pečeni. Měla jsem výhled na trojici otevírajících se, přežvykujících, pasoucích se hlav, výhled na jeho pravou tvář, na jeho špičatý profil, naproti němuž se tyčil vílí profil jeho ženy, která si k zblití půvabně strkala do pusy vidličku s malými sousty sváteční večeře. Ten malej capart přežvykoval s otevřenou pusou a komíhal nohama pod stolem tak divoce, až co chvíli do něčeho drcnul. Uštědřila jsem jí imaginárního lepáka a zcela neimaginárně si usrkla Božkova, co jsem si koupila v malé placaté láhvi v trafice přes ulici.
 
@@ -532,3 +558,5 @@ Prohrábl si strniště. A můj tep se zase zpomalil.
 „Kdyby něco, moje číslo máte,“ řekl.
 
 Zaklaply za ním dveře. Ruce se zastavily. Nejdřív jsem se podívala do nejvyšší police na fotku Kaviho dcery, co měl ještě donedávna v kanceláři. Pak jsem si prohrábla vlasy, zvedla se z gauče a odešla do sprchy.
+
+</section>
