@@ -12,6 +12,7 @@ meta:
   modified: '2021-09-23T00:00:00.000Z'
   publisherShort: mkp
   isbn: 978-80-274-1830-5
+  contentType: prose
 readingOrder:
   - promo.html
   - lapaci_prachu_005.html
