@@ -2,19 +2,18 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
   title: Lapači prachu
   identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
   author: Lucie Faulerová
   publisher: Městská knihovna v Praze
   modified: '2021-09-23T00:00:00.000Z'
+  publisherShort: mkp
+  isbn: 978-80-274-1830-5
 readingOrder:
   - promo.html
-  - lapaci_prachu_001.html
-  - lapaci_prachu_002.html
-  - lapaci_prachu_003.html
-  - lapaci_prachu_004.html
   - lapaci_prachu_005.html
   - lapaci_prachu_006.html
   - lapaci_prachu_007.html
@@ -28,11 +27,51 @@ readingOrder:
   - lapaci_prachu_015.html
   - lapaci_prachu_016.html
   - lapaci_prachu_017.html
-  - lapaci_prachu_018.html
+  - colophon.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: lapaci_prachu_005.html
+        title: Věnování
+        hiddenTitle: true
+      - link: lapaci_prachu_006.html
+        title: Báseň
+        hiddenTitle: true
+      - link: lapaci_prachu_007.html
+        title: Nula
+        hiddenTitle: false
+      - link: lapaci_prachu_008.html
+        title: Jedna
+        hiddenTitle: false
+      - link: lapaci_prachu_009.html
+        title: Dvě
+        hiddenTitle: false
+      - link: lapaci_prachu_010.html
+        title: Tři
+        hiddenTitle: false
+      - link: lapaci_prachu_011.html
+        title: Čtyři
+        hiddenTitle: false
+      - link: lapaci_prachu_012.html
+        title: Pět
+        hiddenTitle: false
+      - link: lapaci_prachu_013.html
+        title: Šest
+        hiddenTitle: false
+      - link: lapaci_prachu_014.html
+        title: Sedm
+        hiddenTitle: false
+      - link: lapaci_prachu_015.html
+        title: Osm
+        hiddenTitle: false
+      - link: lapaci_prachu_016.html
+        title: "Osm a\_půl"
+        hiddenTitle: false
+      - link: lapaci_prachu_017.html
+        title: Ediční poznámka
+        hiddenTitle: true
     isSection: true
+    listType: plain
 static:
   - style
   - scripts
@@ -40,5 +79,6 @@ static:
   - fonts
   - resources
   - template-images
+  - assets
   - favicon.png
 ---
