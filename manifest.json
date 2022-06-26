@@ -1,0 +1,339 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Lapači prachu",
+  "author": "Lucie Faulerová",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "faulerova-lapaci-prachu-a455d3f",
+  "revision": "a455d3f",
+  "readingOrder": [
+    "promo.html",
+    "lapaci_prachu_005.html",
+    "lapaci_prachu_006.html",
+    "lapaci_prachu_007.html",
+    "lapaci_prachu_008.html",
+    "lapaci_prachu_009.html",
+    "lapaci_prachu_010.html",
+    "lapaci_prachu_011.html",
+    "lapaci_prachu_012.html",
+    "lapaci_prachu_013.html",
+    "lapaci_prachu_014.html",
+    "lapaci_prachu_015.html",
+    "lapaci_prachu_016.html",
+    "lapaci_prachu_017.html",
+    "colophon.html"
+  ],
+  "generatedAt": {
+    "date": "Sun Jun 26 2022 07:47:22 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1656229642455
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "lapaci_prachu_005.html",
+      "toc": []
+    },
+    {
+      "title": "Lapači prachu",
+      "file": "lapaci_prachu_005.html",
+      "words": 18,
+      "chars": 118,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "lapaci_prachu_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lapači prachu",
+      "file": "lapaci_prachu_006.html",
+      "words": 25,
+      "chars": 123,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 2,
+      "prev": "lapaci_prachu_005.html",
+      "next": "lapaci_prachu_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nula",
+      "file": "lapaci_prachu_007.html",
+      "words": 198,
+      "chars": 1184,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 3,
+      "prev": "lapaci_prachu_006.html",
+      "next": "lapaci_prachu_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nula",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jedna",
+      "file": "lapaci_prachu_008.html",
+      "words": 5553,
+      "chars": 32918,
+      "ideas": 98,
+      "role": "chapter",
+      "order": 4,
+      "prev": "lapaci_prachu_007.html",
+      "next": "lapaci_prachu_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jedna",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dvě",
+      "file": "lapaci_prachu_009.html",
+      "words": 5079,
+      "chars": 28210,
+      "ideas": 132,
+      "role": "chapter",
+      "order": 5,
+      "prev": "lapaci_prachu_008.html",
+      "next": "lapaci_prachu_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dvě",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tři",
+      "file": "lapaci_prachu_010.html",
+      "words": 7196,
+      "chars": 41112,
+      "ideas": 149,
+      "role": "chapter",
+      "order": 6,
+      "prev": "lapaci_prachu_009.html",
+      "next": "lapaci_prachu_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tři",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Čtyři",
+      "file": "lapaci_prachu_011.html",
+      "words": 3239,
+      "chars": 18645,
+      "ideas": 83,
+      "role": "chapter",
+      "order": 7,
+      "prev": "lapaci_prachu_010.html",
+      "next": "lapaci_prachu_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Čtyři",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pět",
+      "file": "lapaci_prachu_012.html",
+      "words": 5461,
+      "chars": 31116,
+      "ideas": 221,
+      "role": "chapter",
+      "order": 8,
+      "prev": "lapaci_prachu_011.html",
+      "next": "lapaci_prachu_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pět",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Šest",
+      "file": "lapaci_prachu_013.html",
+      "words": 5984,
+      "chars": 34306,
+      "ideas": 250,
+      "role": "chapter",
+      "order": 9,
+      "prev": "lapaci_prachu_012.html",
+      "next": "lapaci_prachu_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Šest",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sedm",
+      "file": "lapaci_prachu_014.html",
+      "words": 9502,
+      "chars": 54446,
+      "ideas": 266,
+      "role": "chapter",
+      "order": 10,
+      "prev": "lapaci_prachu_013.html",
+      "next": "lapaci_prachu_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sedm",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Osm",
+      "file": "lapaci_prachu_015.html",
+      "words": 6069,
+      "chars": 34158,
+      "ideas": 249,
+      "role": "chapter",
+      "order": 11,
+      "prev": "lapaci_prachu_014.html",
+      "next": "lapaci_prachu_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Osm",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Osm a půl",
+      "file": "lapaci_prachu_016.html",
+      "words": 2071,
+      "chars": 11813,
+      "ideas": 79,
+      "role": "chapter",
+      "order": 12,
+      "prev": "lapaci_prachu_015.html",
+      "next": "lapaci_prachu_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Osm a půl",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lapači prachu",
+      "file": "lapaci_prachu_017.html",
+      "words": 14,
+      "chars": 93,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 13,
+      "prev": "lapaci_prachu_016.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "colophon.html",
+      "words": 134,
+      "chars": 885,
+      "ideas": 16,
+      "role": "colophon",
+      "order": null,
+      "prev": "lapaci_prachu_017.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 50548,
+      "chars": 289158,
+      "ideas": 1564
+    },
+    "chapters": {
+      "words": 50409,
+      "chars": 288242,
+      "ideas": 1545
+    }
+  }
+}
