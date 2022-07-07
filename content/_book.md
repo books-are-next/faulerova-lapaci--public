@@ -28,7 +28,7 @@ readingOrder:
   - lapaci_prachu_015.html
   - lapaci_prachu_016.html
   - lapaci_prachu_017.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
