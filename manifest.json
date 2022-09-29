@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "faulerova-lapaci-prachu-81a97e7",
-  "revision": "81a97e7",
+  "identifier": "faulerova-lapaci-prachu-fa724fb",
+  "revision": "fa724fb",
   "readingOrder": [
     "promo.html",
     "lapaci_prachu_005.html",
@@ -27,8 +27,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Aug 01 2022 14:26:25 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1659363985636
+    "date": "Thu Sep 29 2022 21:22:38 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664486558970
   },
   "documents": [
     {
@@ -307,7 +307,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 134,
-      "chars": 884,
+      "chars": 885,
       "ideas": 16,
       "role": "about",
       "order": null,
@@ -327,7 +327,7 @@
   "totals": {
     "all": {
       "words": 50548,
-      "chars": 289157,
+      "chars": 289158,
       "ideas": 1564
     },
     "chapters": {
