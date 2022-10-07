@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "faulerova-lapaci-prachu-b338baf",
-  "revision": "b338baf",
+  "identifier": "faulerova-lapaci-prachu-a758f6c",
+  "revision": "a758f6c",
   "readingOrder": [
     "promo.html",
     "lapaci_prachu_005.html",
@@ -27,8 +27,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 22:51:04 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664923864257
+    "date": "Fri Oct 07 2022 13:52:26 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665150746404
   },
   "documents": [
     {
